@@ -42,8 +42,18 @@ def read_total_recall_words(file):
         with open(f'words/swedish/{class_}.txt', 'w', encoding='utf-8') as out:
             out.write('\n'.join(sorted(words)))
 
+def sort_and_unique_lines(file):
+    with open(file, 'r', encoding='utf-8') as f:
+        liens = [x.strip() for x in f.readlines()]
+        uni = list(sorted(set(liens)))
+        print(file, len(liens), len(uni))
+    with open(file, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(uni))
+
 
 if __name__ == '__main__':
     from pprint import pprint
 
-    read_total_recall_words('words/total_recall.txt')
+    for file in os.listdir('historical'):
+        sort_and_unique_lines(f'historical/{file}')
+
