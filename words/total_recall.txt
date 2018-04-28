@@ -222,8 +222,7 @@ swedish,concrete_noun,blöja
 swedish,concrete_noun,bokhylla
 swedish,concrete_noun,boll
 swedish,concrete_noun,bomb
-swedish,concrete_noun,bomu
-ll
+swedish,concrete_noun,bomull
 swedish,concrete_noun,bondgård
 swedish,concrete_noun,bord
 swedish,concrete_noun,borr
