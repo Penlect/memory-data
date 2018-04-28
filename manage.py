@@ -32,12 +32,15 @@ def read_total_recall_words(file):
             lang, class_, word = row_data
             d.setdefault(lang, dict()).setdefault(class_, list()).append(word)
 
-    d.pop('swedish')
-    for lang, c2w in d.items():
-        for class_, words in c2w.items():
-            os.makedirs(f'words/{lang}', exist_ok=True)
-            with open(f'words/{lang}/{class_}.txt', 'w', encoding='utf-8') as out:
-                out.write('\n'.join(sorted(words)))
+    for class_, words in d['swedish'].items():
+
+        with open(f'words/swedish/{class_}.txt', 'r', encoding='utf-8') as out:
+            old_words = [w.rstrip() for w in out.readlines() if w.strip()]
+
+        words = set(words) | set(old_words)
+
+        with open(f'words/swedish/{class_}.txt', 'w', encoding='utf-8') as out:
+            out.write('\n'.join(sorted(words)))
 
 
 if __name__ == '__main__':
