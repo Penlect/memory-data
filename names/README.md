@@ -8,3 +8,30 @@ Region Includes:
 6. Far Eastern        Indian, Pakistani, Mongolian
 7. African            Afrikaans, Zimbabwean, Kenyan
 8. Latin/Hispanic     Spanish, Mexican, Chilean, Argentinean
+
+For each region there will be a directory named as the region. The
+directory will contain a folder for each category of name:
+
+```
+├───african
+│   ├───firstname_female
+│   ├───firstname_male
+│   ├───firstname_unisex
+│   └───lastname
+├───central_asia
+│   ├───firstname_female
+│   ├───firstname_male
+│   ├───firstname_unisex
+│   └───lastname
+
+.
+.
+.
+
+
+└───middle_eastern
+    ├───firstname_female
+    ├───firstname_male
+    ├───firstname_unisex
+    └───lastname
+```

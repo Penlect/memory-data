@@ -1,6 +1,7 @@
 
 from pathlib import Path
 import os
+import hashlib
 
 def read_names_log_file(file):
     lastnames = set()
@@ -51,9 +52,42 @@ def sort_and_unique_lines(file):
         f.write('\n'.join(uni))
 
 
-if __name__ == '__main__':
-    from pprint import pprint
+def rename_files(path, gender):
 
-    for file in os.listdir('historical'):
-        sort_and_unique_lines(f'historical/{file}')
+    files = list(Path(path).iterdir())
+    for file in files:
+        if not file.suffix == '.jpg':
+            raise Exception('Wrong suffix: %s' % file)
+
+    gender = int(gender)
+    assert gender in {0, 1, 2}
+
+    f2h = dict.fromkeys(files)
+    for file in f2h:
+        m = hashlib.md5()
+        with open(file, 'rb') as img:
+            m.update(img.read())
+            f2h[file] = m.hexdigest()
+
+    seen = set()
+    for file, md5 in f2h.items():
+        if md5 in seen:
+            print('Duplicate: ')
+
+
+
+    for file in :
+        m = hashlib.md5()
+        with open(file, 'rb') as img:
+            m.update(img.read())
+        gender = file.name.split('-')[0]
+
+        if len(str(file.name)) < 15:
+            os.rename(str(file), str(file.with_name(f'{gender}-{m.hexdigest()}{file.suffix}')))
+
+
+
+if __name__ == '__main__':
+
+    memocamp_md5_name_images()
 
