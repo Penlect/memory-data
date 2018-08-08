@@ -4,7 +4,6 @@ import csv
 import os
 
 import sqlalchemy.exc as sa_exc
-
 from top_memory import database as db
 
 
@@ -261,7 +260,7 @@ def add_test_users(session):
                 firstname=f'Firstname_{i}',
                 lastname=f'Lastname_{i}',
                 country=f'Country_{i}',
-                blocked=bool(i)
+                blocked=bool(i%2)
             )
             session.add(u)
     name = 'admin'
@@ -296,7 +295,7 @@ def synchronize(session, root):
 if __name__ == '__main__':
     root = Path(__file__).parent
     engine = db.get_dummy_engine()
-    session = db.get_session(engine)
+    session = db.get_session(engine, create_tables=True)
 
     synchronize(session, root)
     try:
