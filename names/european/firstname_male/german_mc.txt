@@ -20,7 +20,7 @@ Bennet
 Bernd
 Bernhard
 Bjarne
-Björn
+BjÃ¶rn
 Bruno
 Carl
 Cedric
@@ -63,7 +63,7 @@ Georg
 Gerd
 Gerhard
 Gustav
-Günter
+GÃ¼nter
 Hannes
 Hans
 Harald
@@ -104,8 +104,8 @@ Julian
 Julius
 Justin
 Justus
-Jörg
-Jürgen
+JÃ¶rg
+JÃ¼rgen
 Kai
 Karsten
 Keno
@@ -190,7 +190,7 @@ Pierre
 Rainer
 Ralf
 Reinhard
-René
+RenÃ©
 Richard
 Robert
 Robin
@@ -207,7 +207,7 @@ Simon
 Stefan
 Steffen
 Sven
-Sören
+SÃ¶ren
 Thomas
 Tim
 Timo
