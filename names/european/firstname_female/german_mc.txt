@@ -35,7 +35,7 @@ Bianca
 Birgit
 Brigitte
 Britta
-Bärbel
+BÃ¤rbel
 Carina
 Carla
 Carlotta
@@ -158,7 +158,7 @@ Kim
 Kimberly
 Kirsten
 Kornelia
-Käthe
+KÃ¤the
 Lana
 Lara
 Larissa
