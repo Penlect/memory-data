@@ -1,5 +1,6 @@
 
 import json
+import os
 from pathlib import Path
 import hashlib
 from PIL import Image
@@ -50,7 +51,7 @@ def images():
     print(f'Deleted {dup_count} duplicated files.')
 
 
-if __name__ == '__main__':
+def process():
     index = 0
     with open('log.txt', 'w') as log:
         for img in images():
@@ -97,3 +98,12 @@ if __name__ == '__main__':
                     pil_image.save(f)
                     log.write(f'{index:05};{img.name}\n')
                     index += 1
+
+
+if __name__ == '__main__':
+    prev = -10
+    for file in os.listdir('output'):
+        n = int(file.split('.')[0])
+        if n != prev + 1:
+            print(n)
+        prev = n
