@@ -1,4 +1,4 @@
-lea
+Lea
 Julia
 Laura
 Anna
@@ -6,7 +6,7 @@ Lisa
 Lena
 Sarah
 Katharina
-johanna
+Johanna
 Sophie
 Marie
 Leonie
@@ -19,7 +19,7 @@ Jessica
 Annika
 Luisa
 Michelle
-melanie
+Melanie
 Jasmin
 Sabrina
 Linda
@@ -78,7 +78,7 @@ Paula
 Mona
 Stefanie
 Louisa
-ella
+Ella
 Merle
 Verena
 Ina

@@ -73,7 +73,7 @@ Emrah
 Erhan
 Metin
 Sinan
-özgür
+Özgür
 Berk
 Ramazan
 Gökhan
@@ -83,7 +83,7 @@ Kenan
 Ufuk
 Mete
 Bilal
-ömer-faruk
+Ömer-faruk
 Ugur
 Sezer
 Anýl

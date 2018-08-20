@@ -14,10 +14,10 @@ Tom
 Markus
 Sebastian
 Julian
-leon
+Leon
 Christoph
 Simon
-felix
+Felix
 Andreas
 Nils
 Nico
@@ -29,7 +29,7 @@ Patrick
 Thomas
 Christopher
 Moritz
-nick
+Nick
 Chris
 Paul
 Jonathan
@@ -55,7 +55,7 @@ Lucas
 Anton
 Timo
 Sven
-marc
+Marc
 Andre
 Gabriel
 Leo
@@ -66,8 +66,8 @@ Jannik
 Niklas
 Noah
 Peter
-mark
-johannes
+Mark
+Johannes
 Konrad
 Alexander
 Pierre
@@ -75,7 +75,6 @@ Jason
 Frank
 Marvin
 Till
-T
 Artur
 Luca
 Fabio
@@ -94,7 +93,7 @@ Dustin
 Janis,Niels
 Jesse
 Phil
-yoda
+Yoda
 Muhammed
 Bako
 Gerrit
