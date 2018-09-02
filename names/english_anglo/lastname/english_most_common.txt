@@ -732,7 +732,6 @@ William
 Pennington
 Woodward
 Finley
-McIntosh
 Koch
 Best
 Solomon
@@ -779,7 +778,6 @@ Shepard
 Hebert
 Cherry
 Cardenas
-McIntyre
 Whitney
 Waller
 Holman
