@@ -2,5 +2,4 @@
 .pytest_cache/
 
 img/
-spoken/
 venv/
