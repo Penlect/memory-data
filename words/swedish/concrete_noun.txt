@@ -514,7 +514,6 @@ gungstol
 gurka
 gurkmeja
 gym
-gå in
 gång
 gåta
 gåva
@@ -1284,7 +1283,7 @@ russin
 rygg
 ryggrad
 ryggsäck
-rymddräckt
+rymddräkt
 rymdsond
 rynka
 rytm
