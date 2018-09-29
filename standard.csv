@@ -1,7 +1,8 @@
 discipline;type;name;memo_time;recall_time;world;international;national;standard_k0;standard_k1
 5min_binary;binary;Binary Numbers;5;15;0;0;1;1178;
 5min_names;names;Names & Faces;5;15;0;0;1;95;
-5min_numbers;numbers;Speed Numbers;5;15;1;1;1;547;
+5min_numbers_1;numbers;Speed Numbers Trial 1;5;15;1;1;1;547;
+5min_numbers_2;numbers;Speed Numbers Trial 2;5;15;1;1;1;547;
 5min_dates;dates;Historic Dates;5;15;1;1;1;142;
 5min_words;words;Random Words;5;15;0;0;1;125;
 5min_images;images;Random Images;5;15;1;1;1;373;
@@ -14,5 +15,9 @@ discipline;type;name;memo_time;recall_time;world;international;national;standard
 30min_numbers;numbers;Random Numbers;30;60;0;1;0;1752;
 60min_cards;cards;Random Cards;60;120;1;0;0;1852;
 60min_numbers;numbers;Random Numbers;60;120;1;0;0;3234;
-spoken_numbers;spoken;Spoken Numbers;-1;5;1;1;1;;47.3
-speed_cards;cards;Speed Cards;5;5;1;1;1;111.4;8030;
+100_spoken_numbers;spoken;100 Spoken Numbers;-1;5;0;1;1;;47.3
+200_spoken_numbers;spoken;200 Spoken Numbers;-1;10;1;0;0;;47.3
+300_spoken_numbers;spoken;300 Spoken Numbers;-1;15;1;1;1;;47.3
+550_spoken_numbers;spoken;550 Spoken Numbers;-1;20;1;1;0;;47.3
+speed_cards_1;cards;Speed Cards Trial 1;5;5;1;1;1;111.4;8030;
+speed_cards_2;cards;Speed Cards Trial 2;5;5;1;1;1;111.4;8030;

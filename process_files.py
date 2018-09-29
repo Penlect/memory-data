@@ -23,11 +23,30 @@ def files():
 
 
 def md5(fname):
+    """Compute checksum of file"""
     hash_md5 = hashlib.md5()
     with open(fname, "rb") as f:
         for chunk in iter(lambda: f.read(4096), b""):
             hash_md5.update(chunk)
     return hash_md5.hexdigest()
+
+
+def rename_gender_md5(image_folder, gender, dry_run=False):
+    """Rename images to gender-checksum filename for face-images."""
+    image_folder = Path(image_folder)
+    for file in image_folder.iterdir():
+        if file.is_file() and file.suffix.lower() in {'.jpg', '.png'}:
+            checksum = md5(file)
+            if gender == 'men':
+                prefix = 1
+            elif gender == 'women':
+                prefix = 0
+            else:
+                raise ValueError(f'Unknown gender: {gender}')
+            new_filename = f'{prefix}-{checksum}{file.suffix}'
+            print(new_filename, '<-', file.name)
+            if not dry_run:
+                file.rename(file.with_name(new_filename))
 
 
 def images():
