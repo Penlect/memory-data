@@ -608,7 +608,6 @@ Lampe
 Fahrbahn
 Sprache
 Laptop
-Laser-
 verriegeln
 Anwalt
 Blatt
@@ -671,7 +670,6 @@ Mikrofon
 Mikroskop
 Hebamme
 Meile
-Militär-
 Milch
 Mime
 Bergwerk
@@ -740,12 +738,10 @@ Zwiebel
 Opposition
 Orakel
 Orange
-Orang-Utan
 Orchester
 Orchidee
 Oregano
 Strauß
-Ourang-Outang
 verbieten
 Ofen
 Eule
@@ -759,7 +755,6 @@ Panda
 Panel
 Panther
 Pantomime
-Papier-
 Sittich
 Paket
 Elternteil
@@ -822,7 +817,6 @@ Pulver
 Prickeln
 Gefängnis
 Privileg
-Preis-
 aussprechen
 Eigentum
 Psalm
@@ -899,7 +893,6 @@ Traurigkeit
 segeln
 Blässe
 Lachs
-Salz-
 Sanatorium
 Sandwich
 Schössling
@@ -949,7 +942,6 @@ Beilagenteller
 sidetrack
 Sicht
 Silizium
-Silber-
 Sänger
 sinken
 Strang
@@ -1010,7 +1002,6 @@ Straßenlampe
 Schnur
 Studio
 Stumpf
-U-Boot
 Suburbia
 saugen
 passen
@@ -1192,7 +1183,6 @@ Abschleppen
 Buch
 Bowling
 Brücke
-Bronze-
 Broschüre
 Tafel
 Blase
@@ -1211,7 +1201,6 @@ Regenwurm
 Staub
 Staubtuch
 tanzen
-Diesel-
 Dinosaurier
 Platte
 Diskette
@@ -1348,7 +1337,6 @@ Kissen
 König
 Zweig
 Abend
-Stickstoff-
 Kirche
 Kiefer
 Keller
@@ -1399,14 +1387,12 @@ Niere
 Aurora
 Nonne
 Öl
-Orang-Utan
 ordnen
 Paddel
 Schemel
 Stirnband
 Papagei
 Papa
-Papier-
 Pfeffer
 Satellit
 Penicillin
@@ -1559,7 +1545,6 @@ Liebe
 Mittag
 Unglück
 Nationalismus
-Nacht-
 Omen
 Frieden
 Genehmigung
@@ -1754,7 +1739,6 @@ Blatt
 Schiff
 Schuh
 Geschäft
-Silber-
 Skateboard
 Lächeln
 Seife
@@ -1856,14 +1840,12 @@ Schere
 Windel
 Nektarine
 Nachtigall
-Stickstoff-
 Olive
 Orchester
 Theater
 Kugel
 Waisenhaus
 Fallschirm
-Papier-
 schälen
 Pelikan
 Pfeffer

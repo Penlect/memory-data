@@ -195,7 +195,6 @@ planche
 ébullition
 bonbon
 livre
-porte-livre
 bouteille
 bouquet
 boîte
@@ -670,7 +669,6 @@ métal
 métronome
 microphone
 microscope
-sage-femme
 mile
 militaire
 lait
@@ -741,12 +739,10 @@ oignon
 opposition
 oracle
 orange
-orang-outan
 orchestre
 orchidée
 origan
 autruche
-ourang-outang
 hors la loi
 four
 hibou
@@ -802,7 +798,6 @@ tresser
 plâtre
 plastique
 assiette
-plate-forme
 jouer
 groupe de jeu
 plombier
@@ -919,7 +914,6 @@ hippocampe
 joint
 la graine
 saisie
-demi-cercle
 envoyer
 sérénité
 sermon
@@ -936,7 +930,6 @@ berger
 tibia
 chemise
 chaussure
-chausse-pied
 boutique
 commerçant
 raccourcir
@@ -1002,7 +995,6 @@ réverbère
 chaîne
 studio
 souche
-sous-marin
 banlieue
 sucer
 costume
@@ -1044,7 +1036,6 @@ attacher
 tigre
 contraction
 temps
-grille-pain
 ongle
 tomate
 serviette
@@ -1110,7 +1101,6 @@ gilet
 mur
 portefeuille
 morse
-garde-robe
 démoniste
 guerrier
 guêpe
@@ -1140,7 +1130,6 @@ poignet
 écrire
 xylophone
 yak
-yo-yo
 zodiaque
 chien
 affaires
@@ -1200,7 +1189,6 @@ diesel
 dinosaure
 disque
 souple
-lave-vaisselle
 disco
 disque
 discuter
@@ -1211,7 +1199,6 @@ drone
 tissu
 dope
 nain
-plate-forme
 écureuil
 étiquette
 exclure
@@ -1242,7 +1229,6 @@ la fenêtre
 piquer
 fourchette
 cintre
-garde-robe
 donner
 girafe
 guitare
@@ -1281,7 +1267,6 @@ ciel
 trouver
 framboise
 casque
-aidez-moi
 saut
 la toux
 faim
@@ -1365,7 +1350,6 @@ macadam
 amande
 marque
 mars
-porte-voix
 téléphone
 nuage
 balai
@@ -1383,7 +1367,6 @@ un rein
 aurore
 religieuse
 pétrole
-orang-outan
 organiser
 pagayer
 tabouret
@@ -1764,7 +1747,6 @@ tortue
 urinoir
 violon
 mur
-garde-robe
 guêpe
 eau
 cascade
@@ -1872,7 +1854,6 @@ franc
 gel
 aller
 manipuler
-aidez-moi
 cacher
 ignorer
 comprendre

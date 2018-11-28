@@ -628,7 +628,6 @@ lucertola
 lama
 serratura
 ceppo
-lecca-lecca
 camion
 lozione
 amore
@@ -737,7 +736,6 @@ orchestra
 orchidea
 origano
 struzzo
-ourang-outang
 fuorilegge
 forno
 gufo

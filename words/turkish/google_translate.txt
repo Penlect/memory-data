@@ -746,7 +746,6 @@ orkestra
 orkide
 kekik
 devekuşu
-ourang-outang
 haydut
 fırın
 baykuş
@@ -1145,7 +1144,6 @@ bilek
 yazmak
 ksilofon
 yak
-yo-yo
 zodyak
 köpek
 iş

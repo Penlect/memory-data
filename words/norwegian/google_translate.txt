@@ -752,7 +752,6 @@ orkester
 orkide
 oregano
 struts
-ourang-outang
 fredløs
 stekeovn
 ugle

@@ -750,7 +750,6 @@ orkester
 orkidé
 oregano
 struds
-ourang-outang
 fredløs
 ovn
 ugle
@@ -1472,7 +1471,6 @@ makeup
 smelte
 besøg
 snorke
-spin-
 snebold
 liggestol
 søvn
