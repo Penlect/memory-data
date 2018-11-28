@@ -22,7 +22,7 @@ gavmildhet
 håp
 sult
 hypnose
-Hykleri
+hykleri
 indikasjon
 infeksjon
 intelligens
@@ -30,14 +30,14 @@ luksus
 mysterium
 ildprøve
 paradoks
-Peril
+peril
 glede
 forebygging
 sitat
 reaksjon
 grunnen til
 motvilje
-Fare
+fare
 tilregnelighet
 følelse
 styrke
@@ -67,8 +67,8 @@ forklare
 falle
 fidget
 flyte
-Følg
-Klem
+følg
+klem
 fornærmelse
 hoppe
 drepe
@@ -95,7 +95,7 @@ snakke
 lære bort
 synes at
 kaste
-Pakk
+pakk
 vandre
 plystre
 arbeid
@@ -161,7 +161,7 @@ bambus
 bandasje
 seddel
 barack
-Tønne
+tønne
 barrikade
 utgangspunkt
 basilikum
@@ -171,11 +171,11 @@ flaggermus
 bauble
 sjømerke
 begerglass
-Bjørn
+bjørn
 skjegg
 beater
 seng
-Bie
+bie
 bikube
 øl
 bille
@@ -193,7 +193,7 @@ blasfemi
 blod
 bluse
 borde
-Kok opp
+kok opp
 bonbon
 bok
 bokholder
@@ -218,7 +218,7 @@ pære
 køyer
 bøye
 brenne
-Burr
+burr
 buss
 virksomhet
 smør
@@ -277,7 +277,7 @@ ren
 klippe
 klokke
 klut
-Sky
+sky
 klubb
 kløtsj
 kyst
@@ -305,7 +305,7 @@ kontakt
 converse
 copha
 kostyme
-Cougar
+cougar
 råd
 ku
 tranebær
@@ -363,7 +363,7 @@ rabatt
 tallerken
 destillere
 grøft
-Brygge
+brygge
 doktor
 dokument
 dodo
@@ -375,7 +375,7 @@ delfin
 esel
 doona
 dør
-Dormouse
+dormouse
 deig
 utkast
 drivved
@@ -395,7 +395,7 @@ egg
 albue
 elefant
 heis
-Alv
+alv
 ellipse
 alm
 forlengelse
@@ -405,7 +405,7 @@ ansatt
 emu
 fiende
 motor
-Engelsk
+engelsk
 inngang
 konvolutt
 era
@@ -466,15 +466,15 @@ venn
 frosk
 frukt
 pels
-Gale
+gale
 bysse
 innreda
 hage
 hvitløk
 bensin
-Port
+port
 gasbind
-Gazette
+gazette
 gelatin
 perle
 generator
@@ -522,7 +522,7 @@ luke
 hat
 hasselnøtt
 frontlys
-Helse
+helse
 hørsel
 høreapparat
 hæl
@@ -545,7 +545,7 @@ horn
 horoskop
 hest
 slange
-vandrer~~POS=TRUNC
+vandrer~~pos=trunc
 hus
 hyle
 hummingbird
@@ -614,7 +614,7 @@ innsjø
 lam
 lampe
 kjørefelt
-Språk
+språk
 laptop
 laser
 klinke
@@ -644,7 +644,7 @@ lytte
 øgle
 llama
 låse
-Logg
+logg
 kjærlighet på pinne
 lastebil
 krem
@@ -652,14 +652,14 @@ kjærlighet
 lus
 makaroni
 maskin
-Mackintosh
+mackintosh
 magi
 magnet
 skjære
 malt
-Mann
+mann
 mango
-Håndbok
+håndbok
 marmor
 hoppe
 marmelade
@@ -685,7 +685,7 @@ mime
 min
 mineral
 minstrel
-Minx
+minx
 speil
 rakett
 stønn
@@ -715,7 +715,7 @@ musiker
 bart
 munnkurv
 spiker
-Navn
+navn
 bleie
 narkotiske
 navle
@@ -733,7 +733,7 @@ bråk
 nudler
 løkke
 nese
-Merk
+merk
 roman
 sykepleier
 planteskole
@@ -750,12 +750,12 @@ løk
 motstand
 orakel
 oransje
-Orangutang
+orangutang
 orkester
 orkide
 oregano
 struts
-ourang-Outang
+ourang-outang
 fredløs
 stekeovn
 ugle
@@ -774,7 +774,7 @@ undulat
 pakke
 forelder
 parkere
-Stortinget
+stortinget
 papegøye
 persille
 passasje
@@ -800,7 +800,7 @@ fotograf
 piano
 pickle
 pai
-Due
+due
 grisebank
 pilates
 pute
@@ -861,7 +861,7 @@ regnbue
 ranger
 rotte
 skrangle
-Ravn
+ravn
 barberhøvel
 reaktor
 beroligelse
@@ -874,7 +874,7 @@ snelle
 flyktning
 regattaen
 fryde
-Religion
+religion
 godtgjørelse
 reprise
 stå imot
@@ -929,7 +929,7 @@ skru
 hav
 måke
 sjøhest
-Tetning
+tetning
 frø
 anfall
 halvsirkel
@@ -1010,7 +1010,7 @@ pinne
 klistremerke
 fastsettelse
 stigbøyle
-Børs
+børs
 strømper
 avføring
 historie
@@ -1090,7 +1090,7 @@ trompet
 stamme
 badekar
 tulipan
-Tyrkia
+tyrkia
 tvilling
 tyrann
 ubveil
@@ -1116,7 +1116,7 @@ blodåre
 velodrom
 giften
 veranda
-Vest
+vest
 prest
 vice
 video spill
@@ -1147,7 +1147,7 @@ hval
 brygge
 hjul
 rullestol
-Visp
+visp
 parykk
 wigwam
 dyreliv
@@ -1189,7 +1189,7 @@ stasjon
 vedde
 betale
 kort
-Bie
+bie
 bibliotek
 biljard
 bite
@@ -1207,7 +1207,7 @@ bronse
 brosjyre
 borde
 boble
-Bue
+bue
 bug
 bolle
 busk
@@ -1237,7 +1237,7 @@ drone
 klut
 kult
 dverg
-Dekk
+dekk
 ekorn
 merkelapp
 utelukke
@@ -1255,7 +1255,7 @@ flip
 elv
 flåte
 sak
-Fotball
+fotball
 ankel
 fred
 stemple
@@ -1284,7 +1284,7 @@ krem
 krangle
 gress
 grøt
-Gud
+gud
 gull
 svinge
 gå
@@ -1340,10 +1340,10 @@ kjole
 kniv
 knute
 knott
-Kok opp
+kok opp
 kull
 stempel
-Kunst
+kunst
 penger
 kort
 snipp
@@ -1393,7 +1393,7 @@ merke
 mars
 megafon
 telefon
-Sky
+sky
 mopp
 motor
 muldyr
@@ -1410,7 +1410,7 @@ nyre
 aurora
 nonne
 olje
-Orangutang
+orangutang
 arrangere
 padle
 avføring
@@ -1430,7 +1430,7 @@ planke
 gips
 pannekake
 politiet
-Motorsykkel
+motorsykkel
 popcorn
 pung
 post
@@ -1492,7 +1492,7 @@ panne
 strikke
 stjerne
 konstellasjon
-Strand
+strand
 struts
 utbytte
 student
@@ -1505,7 +1505,7 @@ svamp
 hale
 svelge
 oksygen
-Tetning
+tetning
 selge
 seng
 sette
@@ -1536,7 +1536,7 @@ vannmelon
 hvete
 vekt
 fiolin
-Visp
+visp
 vitne
 bølge
 vei
@@ -1601,8 +1601,8 @@ ballong
 bandasje
 seddel
 kurv
-Strand
-Bjørn
+strand
+bjørn
 skjegg
 seng
 benk
@@ -1613,7 +1613,7 @@ teppe
 blåbær
 bok
 hefte
-Bue
+bue
 gutt
 armbånd
 hjerne
@@ -1631,7 +1631,7 @@ gulrot
 kartong
 katt
 katedral
-CD
+cd
 tak
 senter
 stol
@@ -1642,7 +1642,7 @@ kastanje
 gressløk
 sigarett
 kanel
-Sky
+sky
 klubb
 kokong
 kaffe
@@ -1667,7 +1667,7 @@ ferje
 gran
 fisk
 kolbe
-Fotball
+fotball
 panne
 gaffel
 fossil
@@ -1680,7 +1680,7 @@ hanske
 gull
 gorilla
 grus
-Nett
+nett
 gitar
 hår
 lommetørkle
@@ -1690,7 +1690,7 @@ helikopter
 ror
 hjelm
 høne
-Hoover
+hoover
 hotell
 hus
 hytte
@@ -1712,7 +1712,7 @@ lilje
 lever
 låse
 lastebil
-Mann
+mann
 kart
 maske
 kamp
@@ -1722,7 +1722,7 @@ penger
 måne
 mopp
 moped
-Motorsykkel
+motorsykkel
 mamma
 sopp
 musiker
@@ -1778,7 +1778,7 @@ stjerne
 statue
 pinne
 mage
-Stoppe
+stoppe
 sol
 søt
 svømmer
@@ -1810,12 +1810,12 @@ krans
 sebra
 skuespiller
 antenne
-Undulat
+undulat
 komma
 vik
-Tusenfryd
-Dato
-Brygge
+tusenfryd
+dato
+brygge
 skuff
 ibenholt
 film
@@ -1843,7 +1843,7 @@ vertshus
 tolk
 jern
 jekk
-Kastespyd
+kastespyd
 juvel
 genser
 kjøkken
@@ -1853,7 +1853,7 @@ innsjø
 lær
 brev
 lime
-Logg
+logg
 lykt
 laurbær
 lede
@@ -1861,7 +1861,7 @@ frosk
 hummer
 pasta
 museum
-Herregård
+herregård
 hage
 kjøttkaker
 membran
@@ -1892,7 +1892,7 @@ kastrere
 utfordring
 skader
 danse
-Bestemme seg for
+bestemme seg for
 diskutere
 stupe
 nedlasting
@@ -1922,7 +1922,7 @@ blande
 moult
 anlegg
 løfte
-Helle
+helle
 omvendt
 anmeldelse
 rad

@@ -9,7 +9,7 @@ cywilizacja
 komunizm
 zrozumienie
 pewność siebie
-Curage
+curage
 dekadencja
 nieposłuszeństwo
 ego
@@ -82,7 +82,7 @@ podsłuchać
 wykonać
 pochwała
 zrewidować
-Zapamiętaj
+zapamiętaj
 biegać
 mówić
 krzyk
@@ -123,9 +123,9 @@ amoniak
 ziemnowodny
 amfiteatr
 anakonda
-Kotwica
+kotwica
 zwierzę
-Mrówka
+mrówka
 mrówkojad
 antylopa
 antena
@@ -171,7 +171,7 @@ nietoperz
 cacko
 latarnia morska
 zlewka
-Niedźwiedź
+niedźwiedź
 broda
 trzepak
 łóżko
@@ -185,7 +185,7 @@ dzwon
 pas
 ptak
 urodziny
-Herbatnik
+herbatnik
 bitum
 czerń
 koc
@@ -203,7 +203,7 @@ pudełko
 bransoletka
 szelki
 plecenie
-Oddział
+oddział
 chleb
 cegła
 panna młoda
@@ -274,16 +274,16 @@ chór
 okrąg
 cyrk
 czysty
-Klif
+klif
 zegar
 płótno
-Chmura
-Klub
+chmura
+klub
 sprzęgło
-Wybrzeże
+wybrzeże
 płaszcz
 orzech kokosowy
-Cola
+cola
 durszlak
 kołnierz
 kolektyw
@@ -325,7 +325,7 @@ kryształ
 kukułka
 ogórek
 pałka
-Puchar
+puchar
 twaróg
 poduszka
 nóż
@@ -334,7 +334,7 @@ talerz
 taniec
 tancerz
 strzałka
-Baza danych
+baza danych
 córka
 świt
 diakon
@@ -352,7 +352,7 @@ deser
 zniszczenie
 detergent
 diabeł
-Wybierz
+wybierz
 diament
 dyktator
 dyktatura
@@ -387,9 +387,9 @@ wydma
 dwulicowość
 krasnolud
 ucho
-Ziemia
+ziemia
 sztaluga
-Wschód
+wschód
 ekstaza
 jajko
 łokieć
@@ -417,7 +417,7 @@ wyjście
 badać
 expose
 oko
-Twarz
+twarz
 kopia
 wróżka
 sokół
@@ -440,7 +440,7 @@ koniec
 kominek
 ryba
 płomień
-Lampa błyskowa
+lampa błyskowa
 latarka
 pchła
 uciec
@@ -494,7 +494,7 @@ okulary
 rękawica
 klej
 gnom
-Koza
+koza
 złoto
 gubernator
 ziarno
@@ -502,7 +502,7 @@ konik polny
 ruszt
 griller
 piasek
-Niedźwiedź grizzly
+niedźwiedź grizzly
 pardwa
 przewodnik
 świnka morska
@@ -536,7 +536,7 @@ historia
 ul
 oszustwo
 wciągnik
-Dom
+dom
 homogenizacja
 kochanie
 kopyto
@@ -551,7 +551,7 @@ wycie
 koliber
 huragan
 mąż
-Chata
+chata
 wodór
 lód
 lody
@@ -564,10 +564,10 @@ import
 odcisk
 indeks
 indyjski
-Informacja
+informacja
 zranienie
 atrament
-Zajazd
+zajazd
 owad
 znikomość
 irys
@@ -582,7 +582,7 @@ słoik
 szczęka
 zazdrość
 galaretka
-Meduza
+meduza
 molo
 dziennik
 dziennikarz
@@ -595,7 +595,7 @@ kajak
 kebab
 psiarnia
 krawężnik
-Keczup
+keczup
 czajnik
 klawisz
 klawiatura
@@ -620,7 +620,7 @@ laser
 zatrzask
 prawnik
 liść
-Skórzany
+skórzany
 opuszczać
 por
 legenda
@@ -636,7 +636,7 @@ zapalniczka
 limeryk
 pijawka
 zatyczka
-Lew
+lew
 lwica
 lukrecja
 lista
@@ -666,7 +666,7 @@ marmolada
 maska
 mata
 majonez
-Labirynt
+labirynt
 lekarstwo
 zapamiętać
 menhir
@@ -678,7 +678,7 @@ metronom
 mikrofon
 mikroskop
 położna
-Mila
+mila
 wojskowy
 mleko
 mim
@@ -701,9 +701,9 @@ moździerz
 komar
 matka
 motorówka
-Autostrada
+autostrada
 motto
-Góra
+góra
 mysz
 usta
 błoto
@@ -724,8 +724,8 @@ naszyjnik
 igła
 negliż
 gniazdo
-Aktualności
-Gazeta
+aktualności
+gazeta
 słowik
 nihilizm
 ukłon
@@ -733,7 +733,7 @@ hałas
 makaron
 pętla
 nos
-Uwaga
+uwaga
 powieść
 pielęgniarka
 żłobek
@@ -749,22 +749,22 @@ wszechwiedza
 cebula
 sprzeciw
 wyrocznia
-Pomarańczowy
+pomarańczowy
 orangutan
 orkiestra
 orchidea
-Oregano
+oregano
 struś
 ourang-outang
 banita
 piekarnik
 sowa
 utlenianie
-Podkładka
+podkładka
 padok
 obraz
 paleta
-Palma
+palma
 panda
 płyta
 pantera
@@ -776,7 +776,7 @@ rodzic
 park
 parlament
 papuga
-Pietruszka
+pietruszka
 przejście
 pasja
 makaron
@@ -786,7 +786,7 @@ niejednolita całość
 bruk
 brzoskwinia
 paw
-Gruszka
+gruszka
 piedestał
 pelikan
 ołówek
@@ -800,34 +800,34 @@ fotograf
 fortepian
 marynata
 ciasto
-Gołąb
+gołąb
 świnka skarbonka
 pilates
 poduszka
 rura
-Pirania
+pirania
 tłok
 piksel
 warkocz
 gips
-Plastikowy
+plastikowy
 płyta
-Platforma
+platforma
 grać
 playgroup
 wtyczka
 hydraulik
 poeta
-Policja
-MAK
+policja
+mak
 wieprzowina
-Port
+port
 portret
 słupek
-Pocztówka
+pocztówka
 plakat
 odraczać
-Ziemniak
+ziemniak
 funt
 proszek
 cierń
@@ -849,7 +849,7 @@ kwartet
 quiche
 kołczan
 zacytować
-Królik
+królik
 koń wyścigowy
 rakieta
 radar
@@ -880,18 +880,18 @@ potrącenie od dochodu
 opierać się
 respirator
 restauracja
-Siatkówka oka
+siatkówka oka
 dochód
 rewolwer
-Rabarbar
+rabarbar
 faborek
-Ryż
+ryż
 ricotta
 grzbiet
 karabin
 pierścień
 rzeka
-Droga
+droga
 jezdnia
 skała
 rolka
@@ -899,7 +899,7 @@ dach
 kogut
 korzenie
 lina
-Róża
+róża
 gnić
 gumowy
 rubin
@@ -910,7 +910,7 @@ smutek
 żagiel
 powolność
 łosoś
-Sól
+sól
 sanatorium
 kanapka
 drzewko
@@ -922,8 +922,8 @@ skala
 przegrzebek
 szkoła
 nożyczki
-Skorpion
-Szkocka
+skorpion
+szkocka
 ekran
 wkręt
 morze
@@ -956,7 +956,7 @@ skracać
 łopata
 człapać
 rodzeństwo
-Płyta boczna
+płyta boczna
 bocznica
 widok
 krzem
@@ -1010,7 +1010,7 @@ kij
 naklejka
 zastrzeżenie
 strzemię
-Giełda Papierów Wartościowych
+giełda papierów wartościowych
 pończochy
 stołek
 fabuła
@@ -1021,7 +1021,7 @@ lampa uliczna
 strunowy
 studio
 kikut
-Łódź podwodna
+łódź podwodna
 przedmieścia
 ssać
 garnitur
@@ -1048,14 +1048,14 @@ kran
 smoła
 taryfa
 herbata
-Miś
+miś
 telefon
 teleskop
 telewizja
 namiot
 bielec
 podręcznik
-Praca dyplomowa
+praca dyplomowa
 cierń
 wątek
 grozić
@@ -1063,7 +1063,7 @@ kciuk
 kleszcz
 bilet
 wiązanie
-Tygrys
+tygrys
 dokręcanie
 czas
 opiekacz
@@ -1074,7 +1074,7 @@ wieża
 miasto
 zabawka
 pociąg
-Tramp
+tramp
 trampolina
 transpirować
 pułapka
@@ -1099,7 +1099,7 @@ parasol
 wujek
 zrozumienie
 wszechświat
-Uniwersytet
+uniwersytet
 niepokój
 niestałość
 uran
@@ -1123,13 +1123,13 @@ gra wideo
 wino
 zwilżalność
 gość
-Tom
+tom
 wymiociny
 sęp
 wafel
 wóz
 kamizelka
-Ściana
+ściana
 portfel
 mors
 różdżka
@@ -1159,7 +1159,7 @@ okno
 wino
 skrzydło
 życzenie
-Wilk
+wilk
 drewno
 kult
 nadgarstek
@@ -1181,12 +1181,12 @@ rezygnować
 kąpiel
 bagietka
 bandaż
-Koszykówka
+koszykówka
 bateria
 menhir
 pogrzeb
 stacja
-Zakład
+zakład
 zapłacić
 karta
 pszczoła
@@ -1196,7 +1196,7 @@ gryźć
 brzozowy
 żyła
 kwiat
-Borówka amerykańska
+borówka amerykańska
 trojanek
 ośmiornica
 holowniczy
@@ -1265,7 +1265,7 @@ nieznajomy
 owca
 fotel
 okno
-Żądło
+żądło
 widelec
 wieszak
 szafa
@@ -1276,28 +1276,28 @@ szkło
 okulary
 wytrzeszcz
 poświata
-Cukiernia
-Oddział
+cukiernia
+oddział
 grill
 żaba
 krem
 sprzeczka
 trawa
 owsianka
-Pan Bóg
+pan bóg
 złoto
 huśtawka
 udać się
 gęś
 prezent
-Gość
+gość
 ukryć
 pastwisko
 rekin
 młot
 dłoń
 ręcznik
-Palma
+palma
 rękawica
 zarządzanie
 nienawiść
@@ -1307,12 +1307,12 @@ niebo
 odnaleźć
 malina
 kask
-Wsparcie
+wsparcie
 skok
 kaszel
 głód
 karawana
-Chata
+chata
 samolot
 broszura
 odzyskać
@@ -1324,7 +1324,7 @@ lód
 arachid
 jodła
 jury
-Kawa
+kawa
 ciasto
 grzebień
 wielbłąd
@@ -1335,7 +1335,7 @@ mapa
 rondel
 czapka z daszkiem
 poklepać
-Klub
+klub
 sukienka
 nóż
 węzeł
@@ -1357,7 +1357,7 @@ wymiociny
 płyn kosmetyczny
 poduszka
 król
-Gałązka
+gałązka
 wieczór
 azot
 kościół
@@ -1390,21 +1390,21 @@ kaczan
 asfalt
 migdałowy
 znak
-Marsz
+marsz
 megafon
 telefon
-Chmura
+chmura
 wycierać
 silnik
 muł
-Ściana
+ściana
 małż
 moneta
 mrowisko
 bramkarz
 księżyc
 zmierzyć
-Miś
+miś
 neuron
 nerka
 zorza polarna
@@ -1414,7 +1414,7 @@ orangutan
 zorganizować
 wiosłować
 stołek
-Opaska
+opaska
 papuga
 tata
 papier
@@ -1429,15 +1429,15 @@ planeta
 deska
 gips
 naleśnik
-Policja
+policja
 motocykl
 prażona kukurydza
 portmonetka
 słupek
 prezydent
 por
-Gruszka
-Rabarbar
+gruszka
+rabarbar
 rakieta
 rakieta
 spadek
@@ -1446,7 +1446,7 @@ rzepak
 złamać
 dyrektor
 robot
-Róża
+róża
 wirnik
 dystans
 statek kosmiczny
@@ -1485,13 +1485,13 @@ spin
 sen
 pająk
 włócznia
-Miasto
+miasto
 początek
 pręt
 patelnia
 robić na drutach
 gwiazda
-Konstelacja
+konstelacja
 plaża
 struś
 wydajność
@@ -1503,10 +1503,10 @@ spotkanie
 ssać
 gąbka
 ogon
-Łyk
+łyk
 tlen
 foka
-Sprzedać
+sprzedać
 łóżko
 położyć
 ząb
@@ -1515,7 +1515,7 @@ ciotka
 obraz
 herbata
 teleskop
-Popatrz
+popatrz
 toaleta
 ciągnik
 lejek
@@ -1550,7 +1550,7 @@ oko
 brew
 aberracja
 złamać
-Boże Narodzenie
+boże narodzenie
 zagrożenie
 kończący się
 doświadczenie
@@ -1577,7 +1577,7 @@ pokój
 pozwolenie
 osobowość
 poezja
-Policja
+policja
 obecny
 jakość
 reforma
@@ -1585,14 +1585,14 @@ zastąpienie
 zbawienie
 nadwyżka
 zadanie
-Tom
+tom
 wojna
 waga
 powietrze
 karetka pogotowia
 anemon
 anioł
-Mrówka
+mrówka
 jabłko
 strzałka
 asfalt
@@ -1602,7 +1602,7 @@ bandaż
 banknot
 kosz
 plaża
-Niedźwiedź
+niedźwiedź
 broda
 łóżko
 ławka
@@ -1610,14 +1610,14 @@ rower
 lornetka
 nóż
 koc
-Borówka amerykańska
+borówka amerykańska
 książka
 broszura
 łuk
 chłopak
 bransoletka
 mózg
-Oddział
+oddział
 pierś
 wiadro
 guz
@@ -1631,7 +1631,7 @@ marchewka
 karton
 kot
 katedra
-Płyta CD
+płyta cd
 sufit
 środek
 krzesło
@@ -1639,19 +1639,19 @@ kreda
 pieprznik
 rumak
 kasztan
-Szczypiorek
+szczypiorek
 papieros
 cynamon
-Chmura
-Klub
+chmura
+klub
 kokon
-Kawa
+kawa
 sznur
-Krab
+krab
 załoga
 krocze
-Puchar
-Dziennik
+puchar
+dziennik
 dioda
 dyskoteka
 pies
@@ -1693,7 +1693,7 @@ kura
 odkurzacz
 hotel
 dom
-Chata
+chata
 owad
 kurtka
 dżem
@@ -1724,17 +1724,17 @@ wycierać
 motorower
 motocykl
 milczący
-Grzyb
+grzyb
 muzyk
 gwóźdź
 szyja
 naszyjnik
-Gazeta
+gazeta
 pielęgniarka
 owies
 olej
 struś
-Ostryga
+ostryga
 naleśnik
 parasol
 paczka
@@ -1780,7 +1780,7 @@ kij
 żołądek
 zatrzymać
 słońce
-Słodkie
+słodkie
 pływak
 herbata
 nauczyciel
@@ -1796,7 +1796,7 @@ spodnie
 żółw
 pisuar
 skrzypce
-Ściana
+ściana
 szafa
 osa
 woda
@@ -1828,8 +1828,8 @@ imbir
 szklarz
 grafit
 smar
-Zielony
-Hamburger
+zielony
+hamburger
 chomik
 hamak
 hamulec
@@ -1839,10 +1839,10 @@ huragan
 przeszkoda
 lód
 igloo
-Zajazd
+zajazd
 interpretator
 żelazo
-Jacek
+jacek
 oszczep
 klejnot
 skoczek
@@ -1850,15 +1850,15 @@ kuchnia
 sznurowadło
 jezioro
 chochla
-Skórzany
+skórzany
 list
-Limonka
+limonka
 log
 latarnia
 laur
 prowadzić
 żaba
-Homar
+homar
 makaron
 muzeum
 dwór
@@ -1871,7 +1871,7 @@ pieluszka
 nektarowy
 słowik
 azot
-Oliwa
+oliwa
 orkiestra
 teatr
 kula
@@ -1883,7 +1883,7 @@ pelikan
 pieprz
 królowa
 radio
-Rabarbar
+rabarbar
 kręgle
 szczekać
 cios
@@ -1895,7 +1895,7 @@ taniec
 zdecydować
 omawiać
 nurkować
-Ściągnij
+ściągnij
 bęben
 jeść
 fantazjować
@@ -1907,7 +1907,7 @@ szczery
 zamrażać
 udać się
 uchwyt
-Wsparcie
+wsparcie
 ukryć
 ignorować
 zawierać

@@ -31,7 +31,7 @@ misterio
 ordalías
 paradoja
 peligro
-Placer
+placer
 prevención
 cotización
 reacción
@@ -138,13 +138,13 @@ arco
 argumento
 armonia
 armadura
-Ejército
+ejército
 flecha
 ceniza
 pedir
 asombro
 tía
-Aurora
+aurora
 autor
 despertar
 premio
@@ -169,14 +169,14 @@ cuenca
 cesta
 murciélago
 chuchería
-Faro
+faro
 cubilete
 oso
 barba
 batidora
 cama
 abeja
-Colmena
+colmena
 cerveza
 escarabajo
 comenzando
@@ -210,7 +210,7 @@ novia
 brillante
 brócoli
 folleto
-Escoba
+escoba
 cepillo
 burbuja
 búfalo
@@ -261,7 +261,7 @@ juego de damas
 queso
 tarta de queso
 químico
-Cereza
+cereza
 castaña
 jefe
 niño
@@ -282,7 +282,7 @@ club
 embrague
 costa
 capa
-Coco
+coco
 reajuste salarial
 colador
 collar
@@ -305,8 +305,8 @@ conector
 conversar
 copha
 disfraz
-Puma
-Consejo
+puma
+consejo
 vaca
 arándano
 grua
@@ -323,10 +323,10 @@ miga
 aplastar
 cristal
 cuco
-Pepino
+pepino
 porra
 vaso
-Cuajada
+cuajada
 amortiguar
 cortador
 ciclón
@@ -345,7 +345,7 @@ delegar
 guarida
 descendencia
 describir
-Desierto
+desierto
 escritorio
 escritorio
 postre
@@ -372,7 +372,7 @@ dogmática
 muñeca
 dólar
 delfín
-Burro
+burro
 doona
 puerta
 lirón
@@ -380,7 +380,7 @@ masa
 borrador
 madera a la deriva
 beber
-Pato
+pato
 tonto
 bola de masa hervida
 duna
@@ -405,7 +405,7 @@ empleado
 emú
 enemigo
 motor
-Inglés
+inglés
 entrada
 sobre
 era
@@ -446,7 +446,7 @@ pulga
 huir
 flota
 aleta
-Ligar
+ligar
 piso
 flora
 harina
@@ -464,7 +464,7 @@ congelador
 refrigerador
 amigo
 rana
-Fruta
+fruta
 piel
 vendaval
 galera
@@ -478,7 +478,7 @@ gaceta
 gelatina
 joya
 generador
-Hidalgo
+hidalgo
 geografía
 gerberas
 germen
@@ -545,7 +545,7 @@ cuerno
 horóscopo
 caballo
 manguera
-Hostal
+hostal
 casa
 aullido
 colibrí
@@ -567,13 +567,13 @@ indio
 información
 lesión
 tinta
-Posada
+posada
 insecto
 insignificancia
 iris
 planchar
 isla
-Marfil
+marfil
 chaqueta
 bote
 cárcel
@@ -582,7 +582,7 @@ tarro
 mandíbula
 celos
 gelatina
-Medusa
+medusa
 embarcadero
 diario
 periodista
@@ -602,7 +602,7 @@ teclado
 patada
 asesino
 jardín de infancia
-Rey
+rey
 quiosco
 rodilla
 nudo
@@ -611,7 +611,7 @@ etiqueta
 laberinto
 cordón
 lago
-Cordero
+cordero
 lámpara
 carril
 idioma
@@ -622,7 +622,7 @@ abogado
 hoja
 cuero
 salir
-Puerro
+puerro
 leyenda
 legión
 limón
@@ -644,7 +644,7 @@ escucha
 lagartija
 llama
 bloquear
-Iniciar sesión
+iniciar sesión
 pirulí
 camión
 loción
@@ -677,10 +677,10 @@ metal
 metrónomo
 micrófono
 microscopio
-Partera
+partera
 milla
 militar
-Leche
+leche
 mímica
 mía
 mineral
@@ -690,12 +690,12 @@ espejo
 misil
 gemido
 móvil
-Topo
+topo
 monasterio
 monje
 mono
-Monumento
-Luna
+monumento
+luna
 fregona
 mortero
 mosquito
@@ -712,7 +712,7 @@ mula
 músculo
 musical
 músico
-Bigote
+bigote
 bozal
 uña
 nombre
@@ -724,7 +724,7 @@ collar
 aguja
 bata
 nido
-Noticias
+noticias
 periódico
 ruiseñor
 nihilismo
@@ -733,7 +733,7 @@ ruido
 cabeza
 lazo
 nariz
-Nota
+nota
 novela
 enfermera
 guardería
@@ -755,7 +755,7 @@ orquesta
 orquídea
 orégano
 avestruz
-Ourang-outang
+ourang-outang
 proscrito
 horno
 búho
@@ -780,13 +780,13 @@ perejil
 paso
 pasión
 pastas
-Pastelería
+pastelería
 labor de retazos
 camino
 pavimento
 melocotón
 pavo real
-Pera
+pera
 pedestal
 pelícano
 lápiz
@@ -800,7 +800,7 @@ fotógrafo
 piano
 conservar en vinagre
 tarta
-Paloma
+paloma
 hucha
 pilates
 almohada
@@ -820,8 +820,8 @@ fontanero
 poeta
 policía
 amapola
-Cerdo
-Puerto
+cerdo
+puerto
 retrato
 enviar
 tarjeta postal
@@ -846,13 +846,13 @@ rompecabezas
 pirámide
 pitón
 cuarteto
-Quiche
+quiche
 carcaj
 citar
-Conejo
+conejo
 caballo de carreras
 raqueta
-Radar
+radar
 radio
 rábano
 barandilla
@@ -899,7 +899,7 @@ techo
 gallo
 raíces
 cuerda
-Rosa
+rosa
 putrefacción
 caucho
 rubí
@@ -912,14 +912,14 @@ color cetrino
 salmón
 sal
 sanatorio
-Sandwich
+sandwich
 árbol joven
 zafiro
 cacerola
 ahorro
 saxofón
 escala
-Vieira
+vieira
 colegio
 tijeras
 escorpión
@@ -927,7 +927,7 @@ escocés
 pantalla
 tornillo
 mar
-Gaviota
+gaviota
 caballo de mar
 sello
 semilla
@@ -991,7 +991,7 @@ gorrión
 altavoz
 velocímetro
 esfera
-Spledour
+spledour
 esponja
 cuchara
 lugar
@@ -1015,7 +1015,7 @@ medias
 taburete
 historia
 estufa
-Paja
+paja
 calle
 farola
 cuerda
@@ -1039,10 +1039,10 @@ traje de baño
 espada
 jarabe
 mesa
-Manteles
+manteles
 renacuajo
 cola
-Sastre
+sastre
 tanque
 grifo
 alquitrán
@@ -1062,8 +1062,8 @@ amenazar
 pulgar
 garrapata
 boleto
-Corbata
-Tigre
+corbata
+tigre
 apretando
 hora
 tostadora
@@ -1099,13 +1099,13 @@ paraguas
 tío
 comprensión
 universo
-Universidad
+universidad
 disturbios
 inestabilidad
 uranio
 utensilio
 vacaciones
-Valle
+valle
 válvula
 camioneta
 vaselina
@@ -1177,7 +1177,7 @@ espíritu
 pulsera
 codo
 átomo
-Renunciar
+renunciar
 bañera
 junquillo
 vendaje
@@ -1263,7 +1263,7 @@ peinado
 pregunta
 desconocido
 oveja
-Sillón
+sillón
 ventana
 picadura
 tenedor
@@ -1284,7 +1284,7 @@ crema
 pelea
 hierba
 gachas de avena
-Dios
+dios
 oro
 oscilación
 ir
@@ -1343,7 +1343,7 @@ nudo
 hervir
 carbón
 pistón
-Art º
+art º
 efectivo
 corto
 collar
@@ -1356,11 +1356,11 @@ cangrejo de río
 vómito
 loción
 almohada
-Rey
+rey
 ramita
 noche
 nitrógeno
-Iglesia
+iglesia
 mandíbula
 bodega
 conducir
@@ -1384,7 +1384,7 @@ sanar
 salir
 cebolla
 corredor
-Sandwich
+sandwich
 estómago
 mazorca
 pista
@@ -1402,12 +1402,12 @@ almeja
 acuñar
 hormiguero
 portero
-Luna
+luna
 medida
 osito de peluche
 neurona
 riñón
-Aurora
+aurora
 monja
 petróleo
 orangutan
@@ -1435,8 +1435,8 @@ palomitas de maiz
 bolso
 enviar
 presidente
-Puerro
-Pera
+puerro
+pera
 ruibarbo
 raqueta
 cohete
@@ -1446,7 +1446,7 @@ colza
 descanso
 director de escuela
 robot
-Rosa
+rosa
 rotor
 distancia
 astronave
@@ -1515,7 +1515,7 @@ tía
 pintura
 té
 telescopio
-Mira
+mira
 baño
 tractor
 embudo
@@ -1542,7 +1542,7 @@ ola
 camino
 amigo
 líquido
-Pastelería
+pastelería
 remo
 huevo
 ángel
@@ -1550,7 +1550,7 @@ ojo
 ceja
 aberración
 descanso
-Navidad
+navidad
 peligro
 finalizando
 experiencia
@@ -1627,7 +1627,7 @@ candelero
 capa
 coche
 caravana
-Zanahoria
+zanahoria
 caja de cartón
 gato
 catedral
@@ -1655,9 +1655,9 @@ diario
 diodo
 disco
 perro
-Burro
+burro
 vestido
-Pato
+pato
 oreja
 arete
 electrón
@@ -1704,7 +1704,7 @@ cuchillo
 nudo
 coala
 laca
-Cordero
+cordero
 lámpara
 lente
 faro
@@ -1719,7 +1719,7 @@ partido
 melón
 micrófono
 dinero
-Luna
+luna
 fregona
 ciclomotor
 moto
@@ -1759,7 +1759,7 @@ río
 cohete
 moho
 sandalia
-Sandwich
+sandwich
 salsa
 cacerola
 chal
@@ -1779,7 +1779,7 @@ estatua
 palo
 estómago
 detener
-Dom
+dom
 dulce
 nadador
 té
@@ -1793,7 +1793,7 @@ diente
 antorcha
 trofeo
 pantalones
-Tortuga
+tortuga
 urinario
 violín
 pared
@@ -1822,7 +1822,7 @@ película
 niebla
 forraje
 flauta
-Fruta
+fruta
 cerveza
 jengibre
 vidriero
@@ -1839,21 +1839,21 @@ huracán
 obstáculo
 hielo
 iglú
-Posada
-Interprete
+posada
+interprete
 planchar
-Jack
+jack
 jabalina
 joya
 saltador
 cocina
-Cordon de zapato
+cordon de zapato
 lago
 cucharón
 cuero
 carta
-Lima
-Iniciar sesión
+lima
+iniciar sesión
 linterna
 laurel
 dirigir
@@ -1865,7 +1865,7 @@ palacio
 jardín
 albóndiga
 membrana
-Leche
+leche
 tijeras
 pañal
 nectarina

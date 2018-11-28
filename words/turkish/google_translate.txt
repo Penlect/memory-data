@@ -9,7 +9,7 @@ medeniyet
 komünizm
 anlama
 güven
-CURAGE
+curage
 çöküş
 itaatsizlik
 benlik
@@ -31,7 +31,7 @@ gizem
 çile
 paradoks
 tehlike
-Zevk
+zevk
 önleme
 alıntı
 reaksiyon
@@ -56,7 +56,7 @@ toplamak
 karşılaştırmak
 kurmak
 öksürük
-Ağla
+ağla
 kesmek
 kurutmak
 gecikme
@@ -123,25 +123,25 @@ amonyak
 amfibi
 amfitiyatro
 anakonda
-Çapa
+çapa
 hayvan
 karınca
-Karınca yiyen
+karınca yiyen
 antilop
 anten
-Antik
+antik
 boynuz
 temyiz
 elma
 onama
 kemer
 tartışma
-Armony
+armony
 zırh
 ordu
 ok
 kül
-Sor
+sor
 şaşkınlık
 teyze
 şafak
@@ -149,7 +149,7 @@ yazar
 uyandırmak
 ödül
 aks
-Habeş maymunu
+habeş maymunu
 bebek
 bebeğin şişesi
 domuz pastırması
@@ -164,7 +164,7 @@ barack
 varil
 barikat
 baz
-Fesleğen
+fesleğen
 havza
 sepet
 yarasa
@@ -199,7 +199,7 @@ kitap
 kitap sahibi
 şişe
 buket
-Kutu
+kutu
 bilezik
 pantolon askısı
 örgü
@@ -208,7 +208,7 @@ ekmek
 tuğla
 gelin
 parlak
-Brokoli
+brokoli
 broşür
 süpürge
 fırça
@@ -221,7 +221,7 @@ yanmak
 çapak
 otobüs
 iş
-Tereyağı
+tereyağı
 kabin
 kaktüs
 aday
@@ -231,13 +231,13 @@ kamp
 kanarya
 mum
 şamdan
-Şeker
+şeker
 yamyam
 kano
 kapak
 yetenekli
 kapsül
-Kaptan
+kaptan
 araba
 otopark
 karavan
@@ -252,16 +252,16 @@ boşluk
 tavan
 kiler
 santimetre
-Zincir
+zincir
 sandalye
 şampiyon
-Karizma
+karizma
 çekicilik
 dama
 peynir
-Çizkek
+çizkek
 eczacı
-Kiraz
+kiraz
 kestane
 şef
 çocuk
@@ -282,8 +282,8 @@ kulüp
 debriyaj
 sahil
 ceket
-Hindistan cevizi
-Kola
+hindistan cevizi
+kola
 kevgir
 yaka
 toplu
@@ -308,7 +308,7 @@ kostüm
 puma
 konsey
 inek
-Kızılcık
+kızılcık
 vinç
 özlem
 kerevit
@@ -325,15 +325,15 @@ kristal
 guguk
 salatalık
 çomak
-Fincan
-Lor
+fincan
+lor
 minder
 kesici
 siklon
 zil
 dans
 dansçı
-Dart oyunu
+dart oyunu
 veritabanı
 kız evlat
 şafak
@@ -362,7 +362,7 @@ seyreltme
 indirim
 tabak
 damıtmak
-Hendek
+hendek
 rıhtım
 doktor
 belge
@@ -371,12 +371,12 @@ köpek
 inançlar bilgisi
 oyuncak bebek
 dolar
-Yunus
+yunus
 eşek
 yorgan
 kapı
 fındık faresi
-Hamur
+hamur
 taslak
 dalgaların karaya attığı odun
 içki
@@ -389,9 +389,9 @@ cüce
 kulak
 toprak
 şövale
-Doğu
+doğu
 coşku
-Yumurta
+yumurta
 dirsek
 fil
 asansör
@@ -442,7 +442,7 @@ balık
 alev
 flaş
 el feneri
-Pire
+pire
 kaçmak
 filo
 yüzgeç
@@ -452,7 +452,7 @@ bitki örtüsü
 un
 flüt
 sinek
-Gıda
+gıda
 ayak
 forseps
 orman
@@ -469,8 +469,8 @@ kürk
 bora
 kadırga
 aldatmak
-Bahçe
-Sarımsak
+bahçe
+sarımsak
 benzin
 kapı
 gazlı bez
@@ -480,7 +480,7 @@ taş
 jeneratör
 beyefendi
 coğrafya
-Gerbera
+gerbera
 mikrop
 hayalet
 dev
@@ -496,20 +496,20 @@ tutkal
 cüce
 keçi
 altın
-Vali
+vali
 tahıl
 çekirge
-Rende
+rende
 ızgara
 kumtaşı
-Boz ayı
+boz ayı
 keklik
 kılavuz
-Gine domuzu
+gine domuzu
 gitar
 martı
 tabanca
-Jimnastik
+jimnastik
 mezgit balığı
 saç
 çekiç
@@ -529,10 +529,10 @@ topuk
 tavuk
 ot
 saklamak
-Yüksek atlayış
+yüksek atlayış
 kalça
 suaygırı
-Tarihçe
+tarihçe
 kovan
 şaka
 vinç
@@ -541,11 +541,11 @@ homojenizasyon
 bal
 toynak
 hormon
-Boynuz
-Burçlar
+boynuz
+burçlar
 at
 hortum
-Pansiyon
+pansiyon
 ev
 uluma
 sinekkuşu
@@ -563,15 +563,15 @@ uygulamak
 ithalat
 damga
 indeks
-Hintli
+hintli
 bilgi
 hasar
 mürekkep
-Han
+han
 böcek
 anlamsızlık
 iris
-Demir
+demir
 ada
 fildişi
 ceket
@@ -582,13 +582,13 @@ kavanoz
 çene
 kıskançlık
 jöle
-Deniz anası
+deniz anası
 dalgakıran
 dergi
 gazeteci
 oyun kolu
 sürahi
-Meyve suyu
+meyve suyu
 orman
 kanguru
 kayık
@@ -601,7 +601,7 @@ anahtar
 tuş takımı
 tekme
 katil
-çocuk Yuvası
+çocuk yuvası
 kral
 büfe
 diz
@@ -611,24 +611,24 @@ etiket
 labirent
 dantel
 göl
-Kuzu
-Lamba
-Lane
+kuzu
+lamba
+lane
 dil
 dizüstü
 lazer
 mandal
 avukat
-Yaprak
+yaprak
 deri
 ayrılmak
 pırasa
 efsane
 lejyon
-Limon
+limon
 lens
 kütüphane
-Yalan
+yalan
 filika
 asansör
 ışık
@@ -648,7 +648,7 @@ kütük
 lolipop
 kamyon
 losyon
-Aşk
+aşk
 lus
 makarna
 makine
@@ -658,20 +658,20 @@ mıknatıs
 saksağan
 malt
 adam
-Mango
-Manuel
+mango
+manuel
 mermer
 kısrak
 marmelat
 maskelemek
 mat
 mayonez
-Labirent
+labirent
 tıp
 ezberlemek
 taş anıt
-Merkür
-Deniz Kızı
+merkür
+deniz kızı
 mesaj
 metal
 metronom
@@ -680,9 +680,9 @@ mikroskop
 ebe
 mil
 askeri
-Süt
+süt
 mim
-Mayın
+mayın
 mineral
 ozan
 sürtük
@@ -733,7 +733,7 @@ gürültü, ses
 şehriye
 ilmik
 burun
-Not
+not
 yeni
 hemşire
 kreş
@@ -749,7 +749,7 @@ her şeyi bilme
 soğan
 muhalefet
 torpil
-Portakal
+portakal
 orangutan
 orkestra
 orkide
@@ -792,7 +792,7 @@ pelikan
 kalem
 biber
 kişi
-Evcil Hayvan
+evcil hayvan
 taçyaprağı
 balgam
 telefon
@@ -809,19 +809,19 @@ pirana
 piston
 piksel
 kıvrım
-Alçı
+alçı
 plastik
 plaka
 platform
 oyun
-Oyun grubu
+oyun grubu
 fiş
 tesisatçı
 şair
 polis
-Haşhaş
+haşhaş
 domuz
-Liman
+liman
 portre
 posta
 kartpostal
@@ -883,7 +883,7 @@ restoran
 retina
 gelir
 revolver
-Ravent
+ravent
 kurdele
 pirinç
 italyan peyniri
@@ -893,12 +893,12 @@ halka
 nehir
 yol
 şerit
-Kaya
+kaya
 rulo
 çatı
 horoz
 kökleri
-Halat
+halat
 gül
 çürüme
 silgi
@@ -909,7 +909,7 @@ kılıç
 üzüntü
 yelken
 solgunluk
-Somon
+somon
 tuz
 sanatoryum
 sandviç
@@ -923,12 +923,12 @@ tarak kabuğu
 okul
 makas
 akrep
-İskoç
+i̇skoç
 ekran
 vida
 deniz
 martı
-Denizatı
+denizatı
 mühür
 tohum
 haciz
@@ -938,9 +938,9 @@ huzur
 vaaz
 yılan
 gölge
-Arpacık soğanı
+arpacık soğanı
 yonca
-Köpekbalığı
+köpekbalığı
 tıraş
 koyun
 kabuk
@@ -950,11 +950,11 @@ incik kemiği
 gömlek
 ayakkabı
 çekecek
-Dükkan
+dükkan
 dükkâncı
 kısaltmak
 kürek
-Karıştır
+karıştır
 kardeş
 yan levha
 caydırmak
@@ -976,8 +976,8 @@ salyangoz
 kar
 kardan adam
 ıslatma
-Futbol
-Futbol oyuncusu
+futbol
+futbol oyuncusu
 çorap
 kanepe
 yalnızlık
@@ -1006,16 +1006,16 @@ istasyon
 heykel
 buhar
 çelik
-Çubuk
+çubuk
 etiket
 şart
 üzengi
-Borsa
+borsa
 çorap
 dışkı
-Öykü
+öykü
 soba, fırın, ocak
-Saman
+saman
 sokak
 sokak lambası
 sicim
@@ -1032,9 +1032,9 @@ sörfçü
 sürrealizm
 hayatta kalan
 kuğu
-Kazak
+kazak
 yüzücü
-Yüzme havuzu
+yüzme havuzu
 mayo
 kılıç
 şurup
@@ -1047,7 +1047,7 @@ tank
 musluk
 katran
 tarife
-Çay
+çay
 oyuncak
 telefon
 teleskop
@@ -1090,7 +1090,7 @@ trompet
 gövde
 küvet
 lâle
-Türkiye
+türkiye
 ikiz
 tiran
 ubveil
@@ -1098,8 +1098,8 @@ ubveil
 şemsiye
 amca dayı
 anlayış
-Evren
-Üniversite
+evren
+üniversite
 huzursuzluk
 unstableness
 uranyum
@@ -1151,7 +1151,7 @@ fırçalamak
 peruk
 kızılderili çadırı
 yaban hayatı
-Söğüt
+söğüt
 vinç
 rüzgar
 rüzgar gücü
@@ -1159,7 +1159,7 @@ pencere
 şarap
 kanat
 dilek
-Kurt
+kurt
 ahşap
 ibadet
 bilek
@@ -1179,9 +1179,9 @@ dirsek
 atom
 çekilmek
 banyo
-Baget
+baget
 bandaj
-Basketbol
+basketbol
 pil
 taş anıt
 cenaze
@@ -1196,7 +1196,7 @@ bilardo
 huş ağacı
 damar
 çiçek
-Yabanmersini
+yabanmersini
 koyunotu
 ahtapot
 kıtık
@@ -1214,7 +1214,7 @@ topuz
 tekne
 tabanca
 çimento
-Şampanya
+şampanya
 çikolata
 sigara
 bisiklet
@@ -1232,10 +1232,10 @@ disk
 tartışmak
 şeytan
 belge
-Kutu
+kutu
 erkek arı
 bez
-Uyuşturucu
+uyuşturucu
 cüce
 güverte
 sincap
@@ -1253,11 +1253,11 @@ kelebek
 kontrolör
 fiske
 nehir
-Sal
+sal
 dava
-Futbol
+futbol
 ayak bileği
-Barış
+barış
 kaşe
 saç modeli
 soru
@@ -1278,22 +1278,22 @@ bakıyorum
 parıltı
 şekerleme
 şube
-Barbekü
+barbekü
 kurbağa
 krem
 kavga
 çimen
 hapsedilme
-Allah
+allah
 altın
 salıncak
 gitmek
-Kaz
+kaz
 hediye
 konuk
 saklamak
 otlak
-Köpekbalığı
+köpekbalığı
 çekiç
 el
 havlu
@@ -1305,7 +1305,7 @@ kin
 deniz
 gökyüzü
 bulmak
-Ahududu
+ahududu
 kask
 yardım et
 atlama
@@ -1324,13 +1324,13 @@ sandal
 fıstık
 köknar
 jüri
-Kahve
+kahve
 kek
 tarak
 deve
 şamdan
 tencere
-Şeker
+şeker
 harita
 tencere
 kapak
@@ -1343,7 +1343,7 @@ tokmak
 kaynama
 mangal kömürü
 piston
-Sanat
+sanat
 nakit
 kısa
 yaka
@@ -1370,7 +1370,7 @@ arazi
 örtbas etmek
 yama
 yük
-Yalan
+yalan
 ayak parmağı
 hat
 ses
@@ -1390,7 +1390,7 @@ mısır koçanı
 asfalt
 badem
 işaret
-Mart
+mart
 megafon
 telefon
 bulut
@@ -1427,17 +1427,17 @@ pisuar
 afiş
 gezegen
 tahta
-Alçı
+alçı
 yassı
 polis
 motosiklet
-Patlamış mısır
+patlamış mısır
 çanta
 posta
-Devlet Başkanı
+devlet başkanı
 pırasa
 armut
-Ravent
+ravent
 raket
 roket
 düşmek
@@ -1454,7 +1454,7 @@ sele
 sandal
 şampuan
 banknot
-Dükkan
+dükkan
 yüzmek
 şurup
 şarkı söyle
@@ -1485,7 +1485,7 @@ tembel
 uyku
 örümcek
 mızrak
-Kent
+kent
 başla
 çubuk
 tava
@@ -1494,8 +1494,8 @@ star
 takımyıldız
 plaj
 devekuşu
-Yol ver
-Öğrenci
+yol ver
+öğrenci
 durmak
 tel
 her ikisi de
@@ -1503,7 +1503,7 @@ toplantı
 emmek
 sünger
 kuyruk
-Yutmak
+yutmak
 oksijen
 mühür
 satmak
@@ -1513,7 +1513,7 @@ diş
 diş macunu
 teyze
 boyama
-Çay
+çay
 teleskop
 bak
 tuvalet
@@ -1544,14 +1544,14 @@ arkadaş
 sıvı
 hamur işi
 kürek
-Yumurta
+yumurta
 melek
 göz
 kaş
 aberasyon
 mola
-Noel
-Tehlike
+noel
+tehlike
 bitirme
 deneyim
 iyilik
@@ -1560,20 +1560,20 @@ flamenko
 aptal
 cömertlik
 kin
-Mizah
+mizah
 sanayi
 sevinç
 kilo
 bilgi
 kanun
-Aşk
+aşk
 birleşme
 öğlen
 şanssızlık
 milliyetçilik
 gece
 alâmet
-Barış
+barış
 izin
 kişilik
 şiir
@@ -1605,12 +1605,12 @@ plaj
 ayı
 sakal
 yatak
-Bank
+bank
 bisiklet
 dürbün
 bıçak ağzı
 battaniye
-Yabanmersini
+yabanmersini
 kitap
 kitapçık
 yay
@@ -1619,7 +1619,7 @@ bilezik
 beyin
 şube
 meme
-Kova
+kova
 çarpmak
 otobüs
 çalı
@@ -1631,7 +1631,7 @@ havuç
 kutu
 kedi
 katedral
-CD
+cd
 tavan
 merkez
 sandalye
@@ -1641,16 +1641,16 @@ sarı renkli bir tür mantar
 kestane
 bıçaklamak
 sigara
-Tarçın
+tarçın
 bulut
 kulüp
 koza
-Kahve
+kahve
 kordon
-Yengeç
+yengeç
 mürettebat
 koltuk değneği
-Fincan
+fincan
 günlük
 diyot
 disko
@@ -1667,7 +1667,7 @@ feribot
 köknar
 balık
 şişe
-Futbol
+futbol
 alın
 çatal
 fosil
@@ -1680,7 +1680,7 @@ eldiven
 altın
 goril
 çakıl
-Kafes
+kafes
 gitar
 saç
 mendil
@@ -1704,8 +1704,8 @@ bıçak
 düğüm
 koala
 lake
-Kuzu
-Lamba
+kuzu
+lamba
 lens
 fener
 zambak
@@ -1751,7 +1751,7 @@ plaka
 büyük karides
 profesör
 öğrenci
-Ahududu
+ahududu
 alıcı
 kamış
 halka
@@ -1760,13 +1760,13 @@ roket
 pas
 sandal
 sandviç
-Sos
+sos
 tencere
 şal
 tabaka
 gemi
 ayakkabı
-Dükkan
+dükkan
 gümüş
 kaykay
 gülümseme
@@ -1776,13 +1776,13 @@ kaşık
 kare
 star
 heykel
-Çubuk
+çubuk
 mide
 durdurmak
-Güneş
+güneş
 tatlı
 yüzücü
-Çay
+çay
 öğretmen
 başparmak
 teneke
@@ -1799,13 +1799,13 @@ keman
 duvar
 giysi dolabı
 yaban arısı
-Su
+su
 şelale
 dalga
 tekerlek
 şarap
 kanat
-Kadın
+kadın
 çelenk
 zebra
 aktör
@@ -1816,7 +1816,7 @@ koy
 papatya
 tarih
 rıhtım
-Çekmece
+çekmece
 abanoz
 film
 sis
@@ -1829,7 +1829,7 @@ camcı
 grafit
 gres
 yeşil
-Hamburger
+hamburger
 hamster
 hamak
 fren
@@ -1838,10 +1838,10 @@ insan
 kasırga
 engel
 buz
-Eskimo kulübesi
-Han
+eskimo kulübesi
+han
 tercüman
-Demir
+demir
 kriko
 cirit
 mücevher
@@ -1852,20 +1852,20 @@ göl
 kepçe
 deri
 mektup
-Misket Limonu
+misket limonu
 kütük
-Fener
+fener
 defne
 öncülük etmek
 kurbağa
-Istakoz
+istakoz
 makarna
 müze
 konak
-Bahçe
+bahçe
 köfte
 zar
-Süt
+süt
 makas
 bebek bezi
 şeftali
@@ -1883,7 +1883,7 @@ pelikan
 biber
 kraliçe
 radyo
-Ravent
+ravent
 bowling
 bağırmak
 darbe
@@ -1910,7 +1910,7 @@ sap
 yardım et
 saklamak
 aldırmamak
-Dahil etmek
+dahil etmek
 enjekte etmek
 arazi
 başlatmak

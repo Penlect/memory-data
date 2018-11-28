@@ -45,8 +45,8 @@ zaupanje
 slabost
 modrost
 se opravičujem
-Prosim
-Odskakati
+prosim
+odskakati
 dihajte
 zgraditi
 kupiti
@@ -78,11 +78,11 @@ učiti se
 srečati
 mutter
 odprto
-Preglej
+preglej
 opraviti
 pohvale
 ponovno pretehtati
-Zapomni si
+zapomni si
 teči
 reči
 kričati
@@ -103,7 +103,7 @@ opatij
 absurdnost
 pospeševalec
 harmonika
-As
+as
 kisline
 administrator
 občudovanje
@@ -125,7 +125,7 @@ amfiteater
 anakonda
 sidro
 živali
-Mravlja
+mravlja
 anteater
 antilopa
 antena
@@ -144,9 +144,9 @@ pepel
 vprašajte
 presenečenje
 teta
-Aurora
+aurora
 avtor
-Prebudite se
+prebudite se
 nagrada
 os
 baboon
@@ -173,7 +173,7 @@ svetilnik
 čaša
 medveda
 brada
-Beater
+beater
 postelja
 čebela
 čebelnjak
@@ -280,7 +280,7 @@ krpo
 oblak
 klub
 sklopka
-Obala
+obala
 plašč
 kokosovo olje
 kola
@@ -305,7 +305,7 @@ priključek
 pogovor
 copha
 kostum
-Puma
+puma
 svet
 krava
 brusnica
@@ -315,7 +315,7 @@ rakovice
 krema
 kredit
 kriminalec
-Križanka
+križanka
 vrana
 množica
 krstarica
@@ -336,7 +336,7 @@ plesalka
 pikado
 baze podatkov
 hči
-Zora
+zora
 đakon
 izjava
 dekompresija
@@ -351,7 +351,7 @@ pult
 sladica
 uničenje
 detergent
-Hudič
+hudič
 dial
 diamant
 diktator
@@ -387,7 +387,7 @@ dune
 dvojnost
 škrat
 uho
-Zemlja
+zemlja
 stojalo
 vzhodno
 ekstazi
@@ -397,7 +397,7 @@ slon
 dvigalo
 elf
 elipse
-Brest
+brest
 raztezek
 emaciation
 emblem
@@ -437,7 +437,7 @@ mapa
 filter
 fin
 konča
-Ognjišče
+ognjišče
 ribe
 plamen
 bliskavica
@@ -466,7 +466,7 @@ prijatelj
 žaba
 sadje
 krzno
-Gale
+gale
 kuhinja
 gammon
 vrt
@@ -503,7 +503,7 @@ rešetke
 griller
 pesek
 grizli medveda
-Grozno
+grozno
 vodnik
 morski prašiček
 kitaro
@@ -548,7 +548,7 @@ cev
 hostel
 hiša
 vraga
-Kolibri
+kolibri
 orkan
 mož
 koča
@@ -596,7 +596,7 @@ kebab
 psarna
 robnik
 ketchup
-Grelnik vode
+grelnik vode
 ključ
 tipkovnico
 kick
@@ -613,7 +613,7 @@ labirint
 jezero
 jagnjetina
 svetilka
-Lane
+lane
 jezik
 laptop
 laser
@@ -640,12 +640,12 @@ lev
 lioness
 sladki koren
 seznam
-Poslušaj
+poslušaj
 kuščar
 lama
 zaklepanje
 dnevnik
-Lizika
+lizika
 tovornjak
 losjon
 ljubezen
@@ -668,7 +668,7 @@ mat
 majoneza
 labirint
 zdravila
-Zapomni si
+zapomni si
 menhir
 živo srebro
 sirena
@@ -728,17 +728,17 @@ novice
 časopis
 slaščičar
 nihilizem
-Dvigni
+dvigni
 hrup
 testenin
 žica
 nos
-Opomba
+opomba
 roman
 medicinska sestra
 vrtec
 matica
-Nutshell
+nutshell
 oves
 obelisk
 ugovor
@@ -761,7 +761,7 @@ pečica
 sova
 oksidacija
 pad
-Paddock
+paddock
 slika
 paleto
 palm
@@ -800,8 +800,8 @@ fotograf
 klavir
 pickle
 pita
-Golob
-Šparovec
+golob
+šparovec
 pilates
 vzglavnik
 cev
@@ -858,7 +858,7 @@ redkev
 ograjo
 dež
 mavrica
-Ranger
+ranger
 podgana
 kreten
 gavran
@@ -904,7 +904,7 @@ gnilobe
 gume
 ruby
 krmilo
-Runner
+runner
 sablja
 žalost
 jadro
@@ -923,12 +923,12 @@ pokrovček
 šola
 škarje
 škorpijon
-Scotch
+scotch
 zaslon
 vijak
 morje
 galeb
-Seahorse
+seahorse
 pečat
 seme
 zaseg
@@ -967,7 +967,7 @@ skein
 preskočite
 sani
 len
-Smack
+smack
 vonj
 dim
 tihotapec
@@ -987,7 +987,7 @@ pesem
 zvok
 juha
 vžigalna svečka
-Vrabec
+vrabec
 govornik
 merilnik hitrosti
 krogla
@@ -996,7 +996,7 @@ gobica
 žlica
 spot
 sprint
-Spur
+spur
 vohun
 kvadrat
 stag
@@ -1040,7 +1040,7 @@ meč
 sirup
 mizo
 prt
-Tadpole
+tadpole
 rep
 po meri
 rezervoar
@@ -1089,7 +1089,7 @@ tovornjak
 trobenta
 prtljažnik
 kad
-Tulip
+tulip
 puran
 dvojčka
 tiran
@@ -1112,7 +1112,7 @@ vazelina
 zelenjava
 vozilo
 tančica
-Vena
+vena
 velodrome
 strup
 veranda
@@ -1134,7 +1134,7 @@ denarnica
 morilec
 palico
 garderobne omare
-Warlock
+warlock
 bojevnik
 pralni stroj
 osa
@@ -1151,7 +1151,7 @@ invalidski voziček
 lasulja
 wigwam
 prosto živeče živali
-Vrba
+vrba
 vitlo
 veter
 vetrna energija
@@ -1167,7 +1167,7 @@ piši
 ksilofon
 jak
 yoyo
-Zodiak
+zodiak
 pes
 poslovanje
 agent
@@ -1186,7 +1186,7 @@ baterijo
 menhir
 pogreb
 postaja
-Stavite
+stavite
 plačati
 kartica
 čebela
@@ -1194,7 +1194,7 @@ knjižnica
 biljard
 ugriz
 breza
-Vena
+vena
 cvet
 borovnica
 liverwort
@@ -1209,7 +1209,7 @@ tabla
 mehurček
 lok
 bug
-Žemlja
+žemlja
 grm
 čoln
 pištolo
@@ -1230,7 +1230,7 @@ pomivalni stroj
 diskoteka
 diskus
 razpravljali
-Hudič
+hudič
 dokument
 škatla
 drone
@@ -1267,7 +1267,7 @@ fotelj
 okno
 sting
 vilice
-Obešalnik
+obešalnik
 garderobne omare
 daj
 žirafa
@@ -1284,10 +1284,10 @@ krema
 prepir
 trava
 kaša
-Bog
+bog
 zlato
 swing
-Pojdi
+pojdi
 gos
 darilo
 gost
@@ -1379,15 +1379,15 @@ svetloba
 pokrov
 balon
 kosilo
-Poslušaj
+poslušaj
 zdravi
 dopust
 čebulo
-Runner
+runner
 sendvič
 želodec
-Cob
-Tarmac
+cob
+tarmac
 mandelj
 označite
 marš
@@ -1407,7 +1407,7 @@ ukrep
 medvedek
 nevron
 ledvice
-Aurora
+aurora
 nuna
 olje
 orangutan
@@ -1416,7 +1416,7 @@ veslo
 blato
 naglavni trak
 papiga
-Oče
+oče
 papir
 poper
 satelit
@@ -1471,7 +1471,7 @@ ostanek
 gube
 pohvali
 znak
-Pohitite
+pohitite
 kombi
 cev
 dolgočasno
@@ -1486,7 +1486,7 @@ spanje
 pajek
 kopje
 mesto
-Začni
+začni
 palica
 pan
 plesti
@@ -1516,17 +1516,17 @@ slika
 čaj
 teleskop
 poglej
-WC
+wc
 traktor
 lijak
 žonglirati
-Čarovnik
+čarovnik
 trobenta
 drevo
 petelin
 milo
 vlak
-Vžgati
+vžgati
 lažji
 mislim
 pečica
@@ -1550,7 +1550,7 @@ oči
 obrvi
 aberacija
 odmor
-Božič
+božič
 nevarnost
 konec
 izkušnje
@@ -1592,7 +1592,7 @@ zrak
 rešilca
 anemone
 angel
-Mravlja
+mravlja
 jabolka
 puščica
 asfalt
@@ -1631,7 +1631,7 @@ korenje
 škatla
 mačka
 katedrala
-CD
+cd
 strop
 center
 stol
@@ -1639,7 +1639,7 @@ kreda
 lisica
 polnilec
 kostanj
-Chive
+chive
 cigareta
 cimet
 oblak
@@ -1651,7 +1651,7 @@ rak
 posadka
 drobljenje
 skodelico
-Dnevnik
+dnevnik
 dioda
 diskoteka
 pes
@@ -1690,7 +1690,7 @@ helikopter
 čelado
 čelada
 kokoš
-Hoover
+hoover
 hotel
 hiša
 koča
@@ -1708,7 +1708,7 @@ jagnjetina
 svetilka
 objektiv
 svetilnik
-Lily
+lily
 jetra
 zaklepanje
 tovornjak
@@ -1903,9 +1903,9 @@ fascinantno
 najti
 flip
 krat
-Frank
+frank
 zamrzne
-Pojdi
+pojdi
 ročaj
 pomoč
 skriti
@@ -1919,7 +1919,7 @@ dvig
 upravljati
 zgrešiti
 mešamo
-Moult
+moult
 rastlina
 obljubo
 pour

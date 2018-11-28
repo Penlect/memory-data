@@ -33,7 +33,7 @@ paradosso
 pericolo
 piacere
 prevenzione
-Quotazione
+quotazione
 reazione
 ragionare
 riluttanza
@@ -51,7 +51,7 @@ respirare
 costruire
 acquistare
 catturare
-Chiacchierare
+chiacchierare
 raccogliere
 confrontare
 costruire
@@ -67,7 +67,7 @@ spiegare
 autunno
 agitarsi
 galleggiante
-Seguire
+seguire
 abbraccio
 insulto
 saltare
@@ -77,7 +77,7 @@ ridere
 imparare
 incontrare
 borbottio
-Aperto
+aperto
 origliare
 eseguire
 lode
@@ -132,16 +132,16 @@ antenna
 antico
 ramificazione
 appello
-Mela
+mela
 approvazione
 arco
 discussione
-Armony
+armony
 armatura
 esercito
 freccia
 cenere
-Chiedere
+chiedere
 stupore
 zia
 aurora
@@ -152,11 +152,11 @@ asse
 babbuino
 bambino
 bottiglia del bambino
-Bacon
+bacon
 batteri
 esca
 palla
-Palloncino
+palloncino
 bambù
 bendare
 banconota
@@ -193,7 +193,7 @@ bestemmia
 sangue
 camicetta
 tavola
-Bollire
+bollire
 bonbon
 libro
 titolare del libro
@@ -237,7 +237,7 @@ canoa
 berretto
 capace
 capsula
-Capitano
+capitano
 auto
 parcheggio
 caravan
@@ -262,7 +262,7 @@ formaggio
 torta di formaggio
 chimico
 ciliegia
-Castagna
+castagna
 capo
 bambino
 camino
@@ -282,8 +282,8 @@ club
 frizione
 costa
 cappotto
-Noce di cocco
-Coca Cola
+noce di cocco
+coca cola
 colino
 collare
 collettivo
@@ -305,13 +305,13 @@ connettore
 conversare
 copha
 costume
-Puma
+puma
 consiglio
 mucca
 mirtillo rosso
 gru
 brama
-Gambero
+gambero
 crema
 credito
 penale
@@ -334,7 +334,7 @@ piatto
 danza
 ballerino
 dardo
-Banca dati
+banca dati
 figlia
 alba
 diacono
@@ -369,16 +369,16 @@ documento
 dodo
 cane
 dogmatica
-Bambola
+bambola
 dollaro
 delfino
 asino
 doona
 porta
 ghiro
-Impasto
+impasto
 bozza
-Driftwood
+driftwood
 bere
 anatra
 manichino
@@ -405,21 +405,21 @@ dipendente
 emu
 nemico
 motore
-Inglese
+inglese
 iscrizione
-Busta
+busta
 era
 gomma per cancellare
-Evoluzione
+evoluzione
 pecora
 esposizione
-Uscita
-Esplorare
+uscita
+esplorare
 esporre
 occhio
 viso
 facsimile
-Fata
+fata
 falco
 famiglia
 fan
@@ -442,14 +442,14 @@ pesce
 fiamma
 veloce
 torcia elettrica
-Pulce
+pulce
 fuggire
 flotta
 pinna
 flirtare
 pavimento
 flora
-Farina
+farina
 flauto
 volare
 cibo
@@ -457,7 +457,7 @@ piede
 forcipe
 foresta
 forchetta
-Volpe
+volpe
 telaio
 franco
 congelatore
@@ -477,7 +477,7 @@ garza
 gazzetta
 gelatina
 gemma
-Generatore
+generatore
 signore
 geografia
 gerbera
@@ -485,7 +485,7 @@ germe
 fantasma
 gigante
 regalo
-Zenzero
+zenzero
 glaciale
 ghiacciaio
 bagliore
@@ -505,11 +505,11 @@ grinta
 orso grizzly
 gallo cedrone
 guida
-porcellino d'India
+porcellino d'india
 chitarra
 gabbiano
 pistola
-Palestra
+palestra
 eglefino
 capelli
 martello
@@ -522,7 +522,7 @@ schiudere
 odio
 nocciola
 faro
-Salute
+salute
 udito
 apparecchio acustico
 tacco
@@ -546,7 +546,7 @@ oroscopo
 cavallo
 tubo flessibile
 ostello
-Casa
+casa
 ululato
 colibrì
 uragano
@@ -567,7 +567,7 @@ indiano
 informazione
 ferita
 inchiostro
-Locanda
+locanda
 insetto
 piccolezza
 iris
@@ -582,7 +582,7 @@ vaso
 mascella
 gelosia
 gelatina
-Medusa
+medusa
 molo
 rivista
 giornalista
@@ -622,10 +622,10 @@ avvocato
 foglia
 pelle
 partire
-Porro
+porro
 leggenda
 legione
-Limone
+limone
 lente
 biblioteca
 menzogna
@@ -636,7 +636,7 @@ accendino
 limerick
 patella
 acciarino
-Leone
+leone
 leonessa
 liquirizia
 elenco
@@ -653,26 +653,26 @@ lus
 maccheroni
 macchina
 impermeabile
-Magia
+magia
 magnete
 gazza
 malto
 uomo
-Mango
-Manuale
+mango
+manuale
 marmo
 cavalla
 marmellata
 maschera
 stuoia
-Maionese
+maionese
 labirinto
 medicina
 imparare a memoria
 menhir
 mercurio
 sirena
-Messaggio
+messaggio
 metallo
 metronomo
 microfono
@@ -690,13 +690,13 @@ specchio
 missile
 gemito
 mobile
-Talpa
+talpa
 monastero
 monaco
 scimmia
 monumento
-Luna
-Mocio
+luna
+mocio
 mortaio
 zanzara
 madre
@@ -733,11 +733,11 @@ rumore
 spaghetto
 cappio
 naso
-Nota
+nota
 romanzo
 infermiera
 asilo nido
-Noce
+noce
 guscio di noce
 avena
 obelisco
@@ -780,27 +780,27 @@ prezzemolo
 passaggio
 passione
 pasta
-Pasticcino
+pasticcino
 patchwork
 sentiero
 marciapiede
 pesca
 pavone
-Pera
+pera
 piedistallo
 pellicano
 matita
-Pepe
+pepe
 persona
 animale domestico
 petalo
 flemma
-Telefono
+telefono
 fotografo
 pianoforte
 salamoia
 torta
-Piccione
+piccione
 salvadanaio
 pilates
 cuscino
@@ -820,14 +820,14 @@ idraulico
 poeta
 polizia
 papavero
-Maiale
+maiale
 porta
 ritratto
 inviare
 cartolina
 manifesto
 rinviare
-Patata
+patata
 libbra
 polvere
 formicolio
@@ -853,7 +853,7 @@ coniglio
 cavallo da corsa
 racchetta
 radar
-Radio
+radio
 ravanello
 ringhiera
 pioggia
@@ -861,7 +861,7 @@ arcobaleno
 guardia forestale
 ratto
 sonaglio
-Corvo
+corvo
 rasoio
 reattore
 rassicurazione
@@ -896,7 +896,7 @@ carreggiata
 roccia
 rotolo
 tetto
-Gallo
+gallo
 radici
 corda
 rosa
@@ -912,11 +912,11 @@ sallowness
 salmone
 sale
 sanatorio
-Sandwich
+sandwich
 alberello
 zaffiro
 casseruola
-Salvataggio
+salvataggio
 sassofono
 scala
 pettine
@@ -962,14 +962,14 @@ vista
 silicio
 argento
 cantante
-Lavello
+lavello
 matassa
-Salta
+salta
 slitta
 bradipo
 schiaffo
 odore
-Fumo
+fumo
 contrabbandiere
 spuntino
 lumaca
@@ -1010,7 +1010,7 @@ bastone
 etichetta
 stipulazione
 staffa
-Borsa valori
+borsa valori
 calze autoreggenti
 sgabello
 storia
@@ -1070,7 +1070,7 @@ tostapane
 unghia del piede
 pomodoro
 asciugamano
-Torre
+torre
 cittadina
 giocattolo
 treno
@@ -1099,7 +1099,7 @@ ombrello
 zio
 comprensione
 universo
-Università
+università
 agitazione
 unstableness
 uranio
@@ -1163,7 +1163,7 @@ lupo
 legna
 culto
 polso
-Scrivi
+scrivi
 xilofono
 yak
 yoyo
@@ -1214,7 +1214,7 @@ cespuglio
 barca
 pistola
 cemento
-Champagne
+champagne
 cioccolato
 sigaretta
 bicicletta
@@ -1251,10 +1251,10 @@ dito
 pesce
 farfalla
 controllore
-Flip
+flip
 fiume
 zattera
-Astuccio
+astuccio
 calcio
 caviglia
 pace
@@ -1284,11 +1284,11 @@ crema
 litigare
 erba
 porridge
-Dio
+dio
 oro
 swing
 partire
-Oca
+oca
 regalo
 ospite
 nascondere
@@ -1307,7 +1307,7 @@ cielo
 trova
 lampone
 casco
-Aiuto
+aiuto
 saltare
 tosse
 fame
@@ -1340,11 +1340,11 @@ vestito
 coltello
 nodo
 pomello
-Bollire
+bollire
 carbone
 pistone
 arte
-Contanti
+contanti
 corto
 collare
 gru
@@ -1352,7 +1352,7 @@ corona
 gesso
 gancio
 corona
-Gambero
+gambero
 vomito
 lozione
 cuscino
@@ -1360,7 +1360,7 @@ re
 ramoscello
 sera
 azoto
-Chiesa
+chiesa
 mascella
 cantina
 guidare
@@ -1377,14 +1377,14 @@ voce
 suono
 luce
 coperchio
-Palloncino
+palloncino
 pranzo
 ascolta
 guarire
 partire
 cipolla
 corridore
-Sandwich
+sandwich
 stomaco
 pannocchia
 asfalto
@@ -1392,9 +1392,9 @@ mandorla
 marchio
 marzo
 megafono
-Telefono
+telefono
 nube
-Mocio
+mocio
 motore
 mulo
 parete
@@ -1402,7 +1402,7 @@ mollusco
 moneta
 formicaio
 portiere
-Luna
+luna
 misurare
 orsacchiotto
 neurone
@@ -1418,7 +1418,7 @@ fascia per capelli
 pappagallo
 papà
 carta
-Pepe
+pepe
 satellitare
 penicillina
 penna
@@ -1431,12 +1431,12 @@ gesso
 pancake
 polizia
 motocicletta
-Popcorn
+popcorn
 borsa
 inviare
-Presidente
-Porro
-Pera
+presidente
+porro
+pera
 rabarbaro
 racchetta
 razzo
@@ -1465,7 +1465,7 @@ nave
 scarpa
 ridere
 urlare
-Scrivi
+scrivi
 stampante
 rottame
 ruga
@@ -1488,7 +1488,7 @@ lancia
 città
 inizio
 asta
-Pan
+pan
 maglia
 stella
 costellazione
@@ -1515,7 +1515,7 @@ zia
 pittura
 tè
 telescopio
-Guarda
+guarda
 gabinetto
 trattore
 imbuto
@@ -1523,7 +1523,7 @@ destreggiarsi
 procedura guidata
 tromba
 albero
-Gallo
+gallo
 sapone
 treno
 infiammare
@@ -1533,7 +1533,7 @@ forno
 compito
 lontra
 anguria
-Grano
+grano
 peso
 violino
 frusta
@@ -1542,7 +1542,7 @@ onda
 modo
 amico
 liquido
-Pasticcino
+pasticcino
 remo
 uovo
 angelo
@@ -1550,10 +1550,10 @@ occhio
 sopracciglio
 aberrazione
 rompere
-Natale
-Pericolo
+natale
+pericolo
 fine
-Esperienza
+esperienza
 favore
 impresa
 flamenco
@@ -1593,11 +1593,11 @@ ambulanza
 anemone
 angelo
 formica
-Mela
+mela
 freccia
 asfalto
-Borsa
-Palloncino
+borsa
+palloncino
 bendare
 banconota
 cestino
@@ -1618,7 +1618,7 @@ ragazzo
 braccialetto
 cervello
 ramo
-Seno
+seno
 secchio
 urto
 autobus
@@ -1630,16 +1630,16 @@ caravan
 carota
 scatola di cartone
 gatto
-Cattedrale
-CD
+cattedrale
+cd
 soffitto
 centro
 sedia
 gesso
 gallinacci
 caricabatterie
-Castagna
-Erba cipollina
+castagna
+erba cipollina
 sigaretta
 cannella
 nube
@@ -1647,7 +1647,7 @@ club
 bozzolo
 caffè
 cordone
-Granchio
+granchio
 equipaggio
 stampella
 tazza
@@ -1690,9 +1690,9 @@ elicottero
 timone
 casco
 gallina
-Hoover
-Hotel
-Casa
+hoover
+hotel
+casa
 capanna
 insetto
 giacca
@@ -1719,8 +1719,8 @@ incontro
 melone
 microfono
 i soldi
-Luna
-Mocio
+luna
+mocio
 ciclomotore
 motocicletta
 mamma
@@ -1741,7 +1741,7 @@ pacco
 toppa
 arachide
 benzina
-Telefono
+telefono
 pirata
 pistola
 brocca
@@ -1749,7 +1749,7 @@ pianeta
 piatto
 carrozzina
 gamberetto
-Professore
+professore
 allievo
 lampone
 ricevitore
@@ -1759,7 +1759,7 @@ fiume
 razzo
 ruggine
 sandalo
-Sandwich
+sandwich
 salsa
 casseruola
 scialle
@@ -1771,14 +1771,14 @@ argento
 skateboard
 sorriso, sorridere
 sapone
-Spezia
+spezia
 cucchiaio
 piazza
 stella
 statua
 bastone
 stomaco
-Stop
+stop
 sole
 dolce
 nuotatore
@@ -1814,7 +1814,7 @@ pappagallino ondulato
 virgola
 baia
 margherita
-Data
+data
 bacino
 cassetto
 ebano
@@ -1824,12 +1824,12 @@ foraggio
 flauto
 frutta
 birra
-Zenzero
+zenzero
 vetraio
 grafite
-Grasso
+grasso
 verde
-Hamburger
+hamburger
 criceto
 amaca
 freno
@@ -1839,10 +1839,10 @@ uragano
 ostacolo
 ghiaccio
 iglù
-Locanda
+locanda
 interprete
 ferro
-Jack
+jack
 giavellotto
 gioiello
 saltatore
@@ -1860,7 +1860,7 @@ condurre
 rana
 aragosta
 pasta
-Museo
+museo
 dimora
 giardino
 polpetta
@@ -1868,21 +1868,21 @@ membrana
 latte
 forbici
 pannolino
-Nettarina
+nettarina
 usignolo
 azoto
 oliva
 orchestra
-Teatro
+teatro
 globo
 orfanotrofio
 paracadute
 carta
 sbucciare
 pellicano
-Pepe
-Regina
-Radio
+pepe
+regina
+radio
 rabarbaro
 bowling
 abbaiare
@@ -1895,19 +1895,19 @@ danza
 decidere
 discutere
 tuffo
-Scaricare
+scaricare
 tamburo
 mangiare
 fantasticare
 affascinare
 trova
-Flip
+flip
 piegare
-Franco
+franco
 congelare
 partire
 maniglia
-Aiuto
+aiuto
 nascondere
 ignorare
 includere
@@ -1917,7 +1917,7 @@ lanciare
 partire
 sollevamento
 gestire
-Perdere
+perdere
 mescolare
 muta
 pianta

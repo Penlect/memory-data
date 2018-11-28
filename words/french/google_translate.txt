@@ -57,13 +57,13 @@ comparer
 construction
 la toux
 cri
-Couper
+couper
 déshydrater
 retard
 démontrer
 mourir
 manger
-Explique
+explique
 tomber
 bouger
 flotte
@@ -132,7 +132,7 @@ antenne
 antique
 ramure
 charme
-Pomme
+pomme
 approbation
 cambre
 argument
@@ -152,7 +152,7 @@ essieu
 babouin
 bébé
 biberon
-Bacon
+bacon
 les bactéries
 appât
 ballon
@@ -177,7 +177,7 @@ batteur
 lit
 abeille
 ruche
-Bière
+bière
 scarabée
 début
 comportement
@@ -261,14 +261,14 @@ dames
 fromage
 cheesecake
 chimiste
-Cerise
+cerise
 châtaigne
 chef
 enfant
 cheminée
 puce
 aggloméré
-Chocolat
+chocolat
 choix
 chorale
 cercle
@@ -279,15 +279,15 @@ l'horloge
 tissu
 nuage
 club
-Embrayage
+embrayage
 côte
 manteau
 noix de coco
-Cola
+cola
 passoire
 collier
 collectif
-Couleur
+couleur
 colonne
 peigne
 comète
@@ -331,12 +331,12 @@ coussin
 coupeur
 cyclone
 cymbale
-Danse
-Danseur
+danse
+danseur
 dard
 base de données
 fille
-Aube
+aube
 diacre
 déclaration
 décompression
@@ -363,7 +363,7 @@ remise
 plat
 distiller
 fossé
-Dock
+dock
 médecin
 document
 dodo
@@ -373,11 +373,11 @@ poupée
 dollar
 dauphin
 âne
-Doona
+doona
 porte
 loir
 pâte
-Brouillon
+brouillon
 bois flotté
 boisson
 canard
@@ -387,11 +387,11 @@ dune
 duplicité
 nain
 oreille
-Terre
+terre
 chevalet
 est
 extase
-Oeuf
+oeuf
 coude
 l'éléphant
 ascenseur
@@ -405,7 +405,7 @@ employé
 émeu
 ennemi
 moteur
-Anglais
+anglais
 entrée
 enveloppe
 ère
@@ -419,7 +419,7 @@ exposer
 œil
 visage
 facsimilé
-Fée
+fée
 faucon
 famille
 ventilateur
@@ -442,7 +442,7 @@ poisson
 flamme
 flash
 lampe de poche
-Puce
+puce
 fuir
 flotte
 flipper
@@ -457,8 +457,8 @@ pied
 forceps
 forêt
 fourchette
-Renard
-Cadre
+renard
+cadre
 franc
 congélateur
 frigo
@@ -470,17 +470,17 @@ grand vent
 galère
 jambon fumé
 jardin
-Ail
+ail
 de l'essence
 porte
 gaze
 gazette
 gélatine
 gemme
-Générateur
+générateur
 gentilhomme
 la géographie
-Gerbera
+gerbera
 germe
 fantôme
 géant
@@ -502,14 +502,14 @@ sauterelle
 grille
 griller
 grincer
-Grizzly
+grizzly
 tétras
 guider
-Cochon d'Inde
+cochon d'inde
 guitare
 mouette
 pistolet
-Gym
+gym
 églefin
 cheveux
 marteau
@@ -520,7 +520,7 @@ harpe
 chapeau
 la trappe
 haine
-Noisette
+noisette
 phare
 santé
 audition
@@ -563,7 +563,7 @@ mettre en place
 importation
 imprimer
 indice
-Indien
+indien
 information
 blessure
 encre
@@ -573,7 +573,7 @@ insignifiance
 iris
 le fer
 île
-Ivoire
+ivoire
 veste
 cagnotte
 prison
@@ -601,8 +601,8 @@ clé
 clavier
 donner un coup
 tueur
-Jardin d'enfants
-Roi
+jardin d'enfants
+roi
 kiosque
 le genou
 nœud
@@ -610,7 +610,7 @@ koala
 étiquette
 labyrinthe
 dentelle
-Lac
+lac
 agneau
 lampe
 voie
@@ -623,7 +623,7 @@ feuille
 cuir
 laisser
 poireau
-Légende
+légende
 légion
 citron
 lentille
@@ -636,7 +636,7 @@ plus léger
 limerick
 patelle
 pivot
-Lion
+lion
 lionne
 réglisse
 liste
@@ -659,19 +659,19 @@ pie
 malt
 homme
 mangue
-Manuel
+manuel
 marbre
 jument
 confiture
 masque
 tapis
-Mayonnaise
-Labyrinthe
+mayonnaise
+labyrinthe
 médicament
 mémoriser
 menhir
-Mercure
-Sirène
+mercure
+sirène
 message
 métal
 métronome
@@ -680,7 +680,7 @@ microscope
 sage-femme
 mile
 militaire
-Lait
+lait
 mime
 mien
 minéral
@@ -690,7 +690,7 @@ miroir
 missile
 gémissement
 mobile
-Môle
+môle
 monastère
 moine
 singe
@@ -703,8 +703,8 @@ mère
 bateau à moteur
 autoroute
 devise
-Montagne
-Souris
+montagne
+souris
 bouche
 boue
 paillis
@@ -720,26 +720,26 @@ couche
 narcotique
 nombril
 cou
-Collier
+collier
 aiguille
 négligé
 nid
 nouvelles
 journal
-Rossignol
+rossignol
 nihilisme
 hochement
 bruit
 nouille
 nœud coulant
 nez
-Remarque
+remarque
 roman
 infirmière
 garderie
 écrou
 coquille de noix
-L'avoine
+l'avoine
 obélisque
 objection
 poulpe
@@ -749,23 +749,23 @@ omniscience
 oignon
 opposition
 oracle
-Orange
+orange
 orang-outan
 orchestre
 orchidée
-Origan
+origan
 autruche
-Ourang-Outang
+ourang-outang
 hors la loi
 four
 hibou
 oxydation
 tampon
 paddock
-La peinture
+la peinture
 palette
 paume
-Panda
+panda
 panneau
 panthère
 pantomime
@@ -779,8 +779,8 @@ perroquet
 persil
 passage
 la passion
-Pâtes
-Pâtisserie
+pâtes
+pâtisserie
 patchwork
 sentier
 chaussée
@@ -800,7 +800,7 @@ photographe
 piano
 cornichon
 tarte
-Pigeon
+pigeon
 tirelire
 pilates
 oreiller
@@ -810,9 +810,9 @@ piston
 pixel
 tresser
 plâtre
-Plastique
+plastique
 assiette
-Plate-forme
+plate-forme
 jouer
 groupe de jeu
 prise de courant
@@ -821,13 +821,13 @@ poète
 police
 coquelicot
 porc
-Port
+port
 portrait
 poster
 carte postale
 affiche
 remettre à plus tard
-Patate
+patate
 livre
 poudre
 picoter
@@ -846,7 +846,7 @@ puzzle
 pyramide
 python
 quatuor
-Quiche
+quiche
 trembler
 citation
 lapin
@@ -883,7 +883,7 @@ restaurant
 rétine
 revenu
 revolver
-Rhubarbe
+rhubarbe
 ruban
 riz
 ricotta
@@ -893,13 +893,13 @@ bague
 rivière
 route
 chaussée
-Roche
+roche
 rouleau
 toit
 coq
 les racines
 corde
-Rose
+rose
 pourrir
 caoutchouc
 rubis
@@ -909,7 +909,7 @@ sabre
 tristesse
 voile
 teint jaunâtre
-Saumon
+saumon
 sel
 sanatorium
 sandwich
@@ -922,7 +922,7 @@ saxophone
 coquille
 école
 les ciseaux
-Scorpion
+scorpion
 scotch
 écran
 vis
@@ -1010,7 +1010,7 @@ bâton
 autocollant
 stipulation
 étrier
-Bourse
+bourse
 bas
 tabouret
 récit
@@ -1049,7 +1049,7 @@ le goudron
 tarif
 thé
 nounours
-Téléphone
+téléphone
 télescope
 télévision
 tente
@@ -1099,7 +1099,7 @@ parapluie
 oncle
 compréhension
 univers
-Université
+université
 troubles
 instabilité
 uranium
@@ -1136,7 +1136,7 @@ baguette magique
 garde-robe
 démoniste
 guerrier
-Machine à laver
+machine à laver
 guêpe
 cascade
 filigrane
@@ -1159,7 +1159,7 @@ la fenêtre
 du vin
 aile
 souhait
-Loup
+loup
 bois
 culte
 poignet
@@ -1187,7 +1187,7 @@ menhir
 funéraire
 station
 pari
-Payer
+payer
 carte
 abeille
 bibliothèque
@@ -1214,19 +1214,19 @@ buisson
 bateau
 pistolet
 ciment
-Champagne
-Chocolat
+champagne
+chocolat
 cigarette
 bicyclette
 ver de terre
 poussière
 plumeau
-Danse
+danse
 diesel
 dinosaure
 disque
 souple
-Lave-vaisselle
+lave-vaisselle
 disco
 disque
 discuter
@@ -1254,8 +1254,8 @@ manette
 retourner
 rivière
 radeau
-Cas
-Football
+cas
+football
 cheville
 paix
 timbre
@@ -1284,11 +1284,11 @@ crème
 querelle
 herbe
 bouillie
-Dieu
+dieu
 or
 balançoire
 aller
-OIE
+oie
 cadeau
 client
 cacher
@@ -1307,7 +1307,7 @@ ciel
 trouver
 framboise
 casque
-Aidez-moi
+aidez-moi
 saut
 la toux
 faim
@@ -1356,7 +1356,7 @@ couronne
 vomir
 lotion
 oreiller
-Roi
+roi
 brindille
 soir
 azote
@@ -1390,7 +1390,7 @@ estomac
 macadam
 amande
 marque
-Mars
+mars
 porte-voix
 téléphone
 nuage
@@ -1414,12 +1414,12 @@ orang-outan
 organiser
 pagayer
 tabouret
-Bandeau
+bandeau
 perroquet
 papa
 papier
 poivre
-Satellite
+satellite
 pénicilline
 stylo
 flèche
@@ -1434,19 +1434,19 @@ moto
 pop corn
 bourse
 poster
-Président
+président
 poireau
 poire
-Rhubarbe
+rhubarbe
 raquette
 fusée
 tomber
 rot
 colza
-Pause
+pause
 principal
 robot
-Rose
+rose
 rotor
 distance
 vaisseau spatial
@@ -1483,7 +1483,7 @@ tourner
 boule de neige
 fainéant
 dormir
-Araign? e
+araign? e
 lance
 ville
 début
@@ -1512,14 +1512,14 @@ mettre
 dent
 le dentifrice
 tante
-La peinture
+la peinture
 thé
 télescope
-Regardez
+regardez
 toilette
 tracteur
 entonnoir
-Jongler
+jongler
 sorcier
 trompette
 arbre
@@ -1542,15 +1542,15 @@ vague
 façon
 ami
 liquide
-Pâtisserie
+pâtisserie
 rame
-Oeuf
+oeuf
 ange
 œil
 sourcil
 aberration
-Pause
-Noël
+pause
+noël
 danger
 fin
 expérience
@@ -1593,7 +1593,7 @@ ambulance
 anémone
 ange
 fourmi
-Pomme
+pomme
 flèche
 asphalte
 sac
@@ -1618,7 +1618,7 @@ garçon
 bracelet
 cerveau
 branche
-Sein
+sein
 seau
 bosse
 autobus
@@ -1631,7 +1631,7 @@ carotte
 carton
 chat
 cathédrale
-CD
+cd
 plafond
 centre
 chaise
@@ -1647,7 +1647,7 @@ club
 cocon
 café
 corde
-Crabe
+crabe
 équipage
 béquille
 tasse
@@ -1667,7 +1667,7 @@ traversier
 sapin
 poisson
 ballon
-Football
+football
 front
 fourchette
 fossile
@@ -1728,10 +1728,10 @@ champignon
 musicien
 clou
 cou
-Collier
+collier
 journal
 infirmière
-L'avoine
+l'avoine
 pétrole
 autruche
 huître
@@ -1778,8 +1778,8 @@ carré
 statue
 bâton
 estomac
-Arrêtez
-Soleil
+arrêtez
+soleil
 sucré
 nageur
 thé
@@ -1813,9 +1813,9 @@ antenne
 perruche
 virgule
 crique
-Marguerite
+marguerite
 rendez-vous amoureux
-Dock
+dock
 tiroir
 ébène
 film
@@ -1823,18 +1823,18 @@ brouillard
 fourrage
 flûte
 fruit
-Bière
+bière
 gingembre
 vitrier
 graphite
 graisse
 vert
-Hamburger
+hamburger
 hamster
 hamac
 frein
 hôpital
-Humain
+humain
 ouragan
 obstacle
 la glace
@@ -1848,7 +1848,7 @@ bijou
 sauteur
 cuisine
 lacet
-Lac
+lac
 louche
 cuir
 lettre
@@ -1858,18 +1858,18 @@ lanterne
 laurier
 conduire
 la grenouille
-Homard
-Pâtes
+homard
+pâtes
 musée
-Manoir
+manoir
 jardin
 boulette de viande
 membrane
-Lait
+lait
 les ciseaux
 couche
 nectarine
-Rossignol
+rossignol
 azote
 olive
 orchestre
@@ -1883,7 +1883,7 @@ pélican
 poivre
 reine
 radio
-Rhubarbe
+rhubarbe
 bowling
 écorce
 coup
@@ -1891,11 +1891,11 @@ acheter
 castrer
 défi
 dommage
-Danse
+danse
 décider
 discuter
 se plonger
-Télécharger
+télécharger
 tambour
 manger
 fantasmer
@@ -1907,7 +1907,7 @@ franc
 gel
 aller
 manipuler
-Aidez-moi
+aidez-moi
 cacher
 ignorer
 comprendre

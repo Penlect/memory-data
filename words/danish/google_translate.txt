@@ -82,7 +82,7 @@ overhøre
 udføre
 ros
 genoverveje
-Husk
+husk
 løb
 sige
 skrige
@@ -136,12 +136,12 @@ appel
 billigelse
 bue
 argument
-Armony
+armony
 rustning
 hær
 pil
 aske
-Spørg
+spørg
 forbavselse
 tante
 aurora
@@ -195,7 +195,7 @@ bluse
 bestyrelse
 koge
 bonbon
-Bestil
+bestil
 bogholder
 flaske
 buket
@@ -272,12 +272,12 @@ chokolade
 valg
 kor
 cirkel
-Cirkus
+cirkus
 ren
 klint
 ur
 klæde
-Sky
+sky
 klub
 kobling
 kyst
@@ -303,9 +303,9 @@ konference
 lykønske
 stik
 converse
-Copha
+copha
 kostume
-Puma
+puma
 råd
 ko
 tranebær
@@ -413,7 +413,7 @@ viskelæder
 udvikling
 moderfår
 udstilling
-Afslut
+afslut
 udforske
 udsætte
 øje
@@ -432,11 +432,11 @@ hegn
 bregne
 ilder
 færge
-Mark
+mark
 fil
 filter
 finne
-Afslut
+afslut
 ildsted
 fisk
 flamme
@@ -455,9 +455,9 @@ flyve
 mad
 fod
 pincet
-Skov
+skov
 gaffel
-Ræv
+ræv
 ramme
 franc
 fryser
@@ -472,9 +472,9 @@ gammon
 have
 hvidløg
 benzin
-Port
+port
 gaze
-Gazette
+gazette
 gelatine
 perle
 generator
@@ -512,7 +512,7 @@ kanon
 gym
 kuller
 hår
-Hammer
+hammer
 hånd
 lykke
 hårdttræ
@@ -564,10 +564,10 @@ importere
 aftryk
 indeks
 indian
-Information
+information
 skade
 blæk
-Kro
+kro
 insekt
 ubetydelighed
 iris
@@ -588,7 +588,7 @@ tidsskrift
 journalist
 joystick
 kande
-Juice
+juice
 jungle
 kænguru
 kajak
@@ -614,7 +614,7 @@ sø
 lam
 lampe
 bane
-Sprog
+sprog
 bærbar
 laser
 låsen
@@ -640,7 +640,7 @@ løve
 løvinde
 lakrids
 liste
-Lyt
+lyt
 firben
 lama
 låse
@@ -685,7 +685,7 @@ mime
 mine
 mineral
 trubadur
-Minx
+minx
 spejl
 missil
 jamre
@@ -733,7 +733,7 @@ støj
 nudel
 løkke
 næse
-Bemærk
+bemærk
 roman
 amme
 planteskole
@@ -800,12 +800,12 @@ fotograf
 klaver
 lage
 pie
-Due
+due
 sparegris
 pilates
 pude
 rør
-Piranha
+piranha
 stempel
 pixel
 fletning
@@ -813,7 +813,7 @@ gips
 plast
 plade
 platform
-Spille
+spille
 legestue
 prop
 blikkenslager
@@ -821,7 +821,7 @@ digter
 politi
 valmue
 svinekød
-Havn
+havn
 portræt
 stolpe
 postkort
@@ -873,7 +873,7 @@ rev
 hjul
 flygtning
 regatta
-Glæd dig
+glæd dig
 religion
 vederlag
 reprise
@@ -899,7 +899,7 @@ tag
 hane
 rødder
 reb
-Rose
+rose
 rådne
 gummi
 rubin
@@ -1006,7 +1006,7 @@ station
 statue
 damp
 stål
-Pind
+pind
 klistermærke
 bestemmelse
 stigbøjle
@@ -1048,7 +1048,7 @@ hanen
 tjære
 tarif
 te
-Bamse
+bamse
 telefon
 teleskop
 television
@@ -1090,7 +1090,7 @@ trompet
 bagagerum
 badekar
 tulipan
-Kalkun
+kalkun
 tvilling
 tyran
 ubveil
@@ -1113,7 +1113,7 @@ grøntsag
 køretøj
 slør
 vene
-Velodrome
+velodrome
 venom
 veranda
 vest
@@ -1125,7 +1125,7 @@ viscibility
 besøgende
 bind
 opkastning
-Grib
+grib
 vaffel
 vogn
 vest
@@ -1200,7 +1200,7 @@ blåbær
 liverwort
 blæksprutte
 bugsere
-Bestil
+bestil
 bowling
 bro
 bronze
@@ -1210,7 +1210,7 @@ boble
 sløjfe
 insekt
 bolle
-Busk
+busk
 båd
 kanon
 cement
@@ -1284,7 +1284,7 @@ fløde
 skændes
 græs
 grød
-Gud
+gud
 guld
 svinge
 gå
@@ -1294,7 +1294,7 @@ gæst
 skjule
 græs
 haj
-Hammer
+hammer
 hånd
 håndklæde
 håndflade
@@ -1307,7 +1307,7 @@ himmel
 finde
 hindbær
 hjelm
-Hjælp
+hjælp
 hoppe
 hoste
 sult
@@ -1357,7 +1357,7 @@ opkastning
 lotion
 pude
 konge
-Kvist
+kvist
 aften
 nitrogen
 kirke
@@ -1365,7 +1365,7 @@ kæbe
 kælder
 køre
 oplader
-Land
+land
 jord
 gloss
 lappe
@@ -1379,7 +1379,7 @@ lys
 låg
 ballon
 frokost
-Lyt
+lyt
 hele
 forlade
 løg
@@ -1393,7 +1393,7 @@ mærke
 marts
 megafon
 telefon
-Sky
+sky
 mop
 motor
 muldyr
@@ -1404,7 +1404,7 @@ myretue
 målmand
 måne
 måle
-Bamse
+bamse
 neuron
 nyre
 aurora
@@ -1446,7 +1446,7 @@ rapsfrø
 pause
 rektor
 robot
-Rose
+rose
 rotor
 afstand
 rumskib
@@ -1486,7 +1486,7 @@ søvn
 edderkop
 spyd
 by
-Start
+start
 stang
 pande
 strikke
@@ -1531,7 +1531,7 @@ lighter
 tænke
 ovn
 opgave
-Odder
+odder
 vandmelon
 hvede
 vægt
@@ -1545,14 +1545,14 @@ væske
 bagværk
 åre
 æg
-Engel
+engel
 øje
 øjenbryn
 aberration
 pause
 jul
 fare
-Slutning
+slutning
 erfaring
 favorisere
 bedrift
@@ -1591,7 +1591,7 @@ vægt
 luft
 ambulance
 anemone
-Engel
+engel
 myre
 æble
 pil
@@ -1611,7 +1611,7 @@ kikkert
 klinge
 tæppe
 blåbær
-Bestil
+bestil
 brochure
 sløjfe
 dreng
@@ -1622,7 +1622,7 @@ bryst
 spand
 bump
 bus
-Busk
+busk
 lysestage
 kappe
 bil
@@ -1631,7 +1631,7 @@ gulerod
 karton
 kat
 katedral
-CD
+cd
 loft
 centrum
 stol
@@ -1642,7 +1642,7 @@ kastanje
 purløg
 cigaret
 kanel
-Sky
+sky
 klub
 kokon
 kaffe
@@ -1691,7 +1691,7 @@ ror
 hjelm
 høne
 hoover
-Hotel
+hotel
 hus
 hytte
 insekt
@@ -1776,7 +1776,7 @@ ske
 firkant
 stjerne
 statue
-Pind
+pind
 mave
 hold op
 sol
@@ -1833,13 +1833,13 @@ hamburger
 hamster
 hængekøje
 bremse
-Hospital
+hospital
 human
 orkan
 hurdle
 is
 iglo
-Kro
+kro
 tolk
 jern
 donkraft
@@ -1852,7 +1852,7 @@ sø
 slev
 læder
 brev
-Citron
+citron
 log
 lanterne
 laurbær
@@ -1874,7 +1874,7 @@ nitrogen
 oliven
 orkester
 teater
-oRB
+orb
 børnehjem
 faldskærm
 papir
@@ -1895,7 +1895,7 @@ dans
 beslutte
 diskutere
 dykke
-Hent
+hent
 tromme
 spise
 fantasere
@@ -1907,7 +1907,7 @@ folde
 fryse
 gå
 håndtere
-Hjælp
+hjælp
 skjule
 ignorere
 omfatte
