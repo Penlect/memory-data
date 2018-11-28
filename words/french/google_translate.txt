@@ -159,7 +159,6 @@ ballon
 ballon
 bambou
 bandage
-billet de banque
 barack
 baril
 barricade
@@ -334,7 +333,6 @@ cymbale
 danse
 danseur
 dard
-base de données
 fille
 aube
 diacre
@@ -424,7 +422,6 @@ faucon
 famille
 ventilateur
 fanfare
-les terres agricoles
 peur
 le banquet
 sentiment
@@ -537,7 +534,6 @@ ruche
 canular
 levage
 maison
-homogénéisation
 mon chéri
 sabot
 hormone
@@ -559,7 +555,6 @@ iceberg
 identification
 iguane
 imiter
-mettre en place
 importation
 imprimer
 indice
@@ -601,7 +596,6 @@ clé
 clavier
 donner un coup
 tueur
-jardin d'enfants
 roi
 kiosque
 le genou
@@ -629,7 +623,6 @@ citron
 lentille
 bibliothèque
 mensonge
-canot de sauvetage
 ascenseur
 lumière
 plus léger
@@ -700,7 +693,6 @@ balai
 mortier
 moustique
 mère
-bateau à moteur
 autoroute
 devise
 montagne
@@ -738,7 +730,6 @@ roman
 infirmière
 garderie
 écrou
-coquille de noix
 l'avoine
 obélisque
 objection
@@ -792,7 +783,6 @@ pélican
 crayon
 poivre
 la personne
-animal de compagnie
 pétale
 flegme
 téléphone
@@ -815,7 +805,6 @@ assiette
 plate-forme
 jouer
 groupe de jeu
-prise de courant
 plombier
 poète
 police
@@ -826,7 +815,6 @@ portrait
 poster
 carte postale
 affiche
-remettre à plus tard
 patate
 livre
 poudre
@@ -850,7 +838,6 @@ quiche
 trembler
 citation
 lapin
-cheval de course
 raquette
 radar
 radio
@@ -955,8 +942,6 @@ commerçant
 raccourcir
 pelle
 mélanger
-enfant de mêmes parents
-plaque latérale
 dérouter
 vue
 silicium
@@ -974,7 +959,6 @@ contrebandier
 collation
 escargot
 neige
-bonhomme de neige
 trempage
 football
 joueur de foot
@@ -986,10 +970,8 @@ chanson
 chagrin
 du son
 soupe
-bougie d'allumage
 moineau
 orateur
-compteur de vitesse
 sphère
 spledour
 éponge
@@ -1000,7 +982,6 @@ sprint
 espion
 carré
 cerf
-cage d'escalier
 tige
 station
 statue
@@ -1027,7 +1008,6 @@ sucer
 costume
 valise
 tournesol
-planche de surf
 surfeur
 surréalisme
 survivant
@@ -1035,7 +1015,6 @@ cygne
 chandail
 nageur
 piscine
-maillot de bain
 épée
 sirop
 table
@@ -1054,7 +1033,6 @@ télescope
 télévision
 tente
 termite
-cahier de texte
 thèse
 épine
 fil
@@ -1132,11 +1110,9 @@ gilet
 mur
 portefeuille
 morse
-baguette magique
 garde-robe
 démoniste
 guerrier
-machine à laver
 guêpe
 cascade
 filigrane
@@ -1146,7 +1122,6 @@ cannabis
 baleine
 quai
 roue
-fauteuil roulant
 fouet
 perruque
 wigwam
@@ -1154,7 +1129,6 @@ faune
 saule
 treuil
 vent
-énergie éolienne
 la fenêtre
 du vin
 aile
@@ -1399,7 +1373,6 @@ moteur
 mule
 mur
 palourde
-pièce de monnaie
 fourmilière
 gardien de but
 lune
@@ -1449,18 +1422,15 @@ robot
 rose
 rotor
 distance
-vaisseau spatial
 selle
 sandale
 shampooing
-billet de banque
 boutique
 nager
 sirop
 chanter
 pirate
 échelle
-planche à roulette
 navire
 chaussure
 rire
@@ -1599,7 +1569,6 @@ asphalte
 sac
 ballon
 bandage
-billet de banque
 panier
 plage
 ours
@@ -1659,7 +1628,6 @@ chien
 robe
 canard
 oreille
-boucle d'oreille
 électron
 l'éléphant
 fakir
@@ -1768,7 +1736,6 @@ navire
 chaussure
 boutique
 argent
-planche à roulette
 sourire
 savon
 pimenter
@@ -1814,7 +1781,6 @@ perruche
 virgule
 crique
 marguerite
-rendez-vous amoureux
 dock
 tiroir
 ébène
@@ -1863,7 +1829,6 @@ pâtes
 musée
 manoir
 jardin
-boulette de viande
 membrane
 lait
 les ciseaux

@@ -38,7 +38,6 @@ Reaktion
 Grund
 Abneigung
 Risiko
-geistige Gesundheit
 Sensation
 Stärke
 Vertrauen
@@ -53,7 +52,6 @@ Kaufen
 Fang
 Plaudern
 sammeln
-vergleichen Sie
 konstruieren
 Husten
 Weinen
@@ -91,7 +89,6 @@ schlafen
 Lächeln
 sprechen
 Stand
-sich unterhalten
 lehren
 denken
 werfen
@@ -315,7 +312,6 @@ Flusskrebs
 Sahne
 Kredit
 kriminell
-Kreuzworträtsel
 Krähe
 Menge
 Kreuzer
@@ -505,7 +501,6 @@ Streugut
 Grizzlybär
 Auerhahn
 führen
-Meerschweinchen
 Gitarre
 Möwe
 Gewehr
@@ -537,7 +532,6 @@ Bienenstock
 Scherz
 hissen
 Zuhause
-Homogenisierung
 Honig
 Huf
 Hormon
@@ -556,7 +550,6 @@ Wasserstoff
 Eis
 Eis
 Eisberg
-Identifizierung
 Leguan
 imitieren
 implementieren
@@ -569,7 +562,6 @@ Verletzung
 Tinte
 Gasthaus
 Insekt
-Bedeutungslosigkeit
 Iris
 Eisen
 Insel
@@ -689,7 +681,6 @@ minx
 Spiegel
 Rakete
 Stöhnen
-Handy, Mobiltelefon
 Maulwurf
 Kloster
 Mönch
@@ -735,7 +726,6 @@ Schlinge
 Nase
 Hinweis
 Roman
-Krankenschwester
 Kindergarten
 Nuss
 Nussschale
@@ -820,7 +810,6 @@ Klempner
 Dichter
 Polizei
 Mohn
-Schweinefleisch
 Hafen
 Porträt
 Post
@@ -1567,7 +1556,6 @@ Kilo
 Wissen
 Gesetz
 Liebe
-Zusammenschluss
 Mittag
 Unglück
 Nationalismus
@@ -1730,7 +1718,6 @@ Nagel
 Hals
 Halskette
 Zeitung
-Krankenschwester
 Hafer
 Öl
 Strauß
@@ -1863,7 +1850,6 @@ Pasta
 Museum
 Villa
 Garten
-Fleischbällchen
 Membran
 Milch
 Schere
@@ -1889,7 +1875,6 @@ Borke
 Schlag
 Kaufen
 kastrieren
-Herausforderung
 Beschädigung
 tanzen
 entscheiden

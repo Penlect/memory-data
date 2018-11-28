@@ -81,7 +81,6 @@ odprto
 preglej
 opraviti
 pohvale
-ponovno pretehtati
 zapomni si
 teči
 reči
@@ -151,7 +150,6 @@ nagrada
 os
 baboon
 otroka
-otroška steklenica
 slanina
 bakterije
 vaba
@@ -424,7 +422,6 @@ sokol
 družina
 ventilator
 fanfare
-kmetijska zemljišča
 strah
 praznik
 občutek
@@ -505,7 +502,6 @@ pesek
 grizli medveda
 grozno
 vodnik
-morski prašiček
 kitaro
 galeb
 pištolo
@@ -735,7 +731,6 @@ testenin
 nos
 opomba
 roman
-medicinska sestra
 vrtec
 matica
 nutshell
@@ -814,7 +809,6 @@ plastika
 plošča
 platforma
 igraj
-igralna skupina
 vtič
 vodovodar
 pesnik
@@ -956,7 +950,6 @@ skrajšajte
 lopato
 shuffle
 brata
-stransko ploščo
 sidetrack
 pogled
 silicij
@@ -986,10 +979,8 @@ pesem
 žalost
 zvok
 juha
-vžigalna svečka
 vrabec
 govornik
-merilnik hitrosti
 krogla
 spledour
 gobica
@@ -1017,7 +1008,6 @@ zgodba
 peč
 slama
 ulica
-ulična svetilka
 niz
 studio
 panj
@@ -1133,7 +1123,6 @@ zid
 denarnica
 morilec
 palico
-garderobne omare
 warlock
 bojevnik
 pralni stroj
@@ -1146,15 +1135,12 @@ trava
 kit
 pristan
 kolo
-invalidski voziček
 žvakanje
 lasulja
 wigwam
-prosto živeče živali
 vrba
 vitlo
 veter
-vetrna energija
 okno
 vino
 krilo
@@ -1226,7 +1212,6 @@ dizel
 dinozaver
 disk
 disketno
-pomivalni stroj
 diskoteka
 diskus
 razpravljali
@@ -1242,7 +1227,6 @@ veverica
 oznaka
 izključite
 fasada
-povišana telesna temperatura
 fin
 fez
 odeja
@@ -1268,7 +1252,6 @@ okno
 sting
 vilice
 obešalnik
-garderobne omare
 daj
 žirafa
 kitaro
@@ -1449,7 +1432,6 @@ robot
 roza
 rotor
 razdalja
-vesoljska ladja
 sedlo
 sandale
 šampon
@@ -1730,7 +1712,6 @@ nohtov
 vratu
 ogrlica
 časopis
-medicinska sestra
 oves
 olje
 noj
@@ -1747,7 +1728,6 @@ pištolo
 vrč
 planet
 plošča
-otroški voziček
 kozica
 profesor
 učenec
@@ -1797,7 +1777,6 @@ hlače
 pisoar
 violina
 zid
-garderobne omare
 osa
 voda
 slap

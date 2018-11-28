@@ -36,7 +36,6 @@ forebyggelse
 citat
 reaktion
 grund
-tilbageholdenhed
 risiko
 fornuft
 sensation
@@ -202,7 +201,6 @@ buket
 boks
 armbånd
 seler
-afrikanske fletninger
 afdeling
 brød
 mursten
@@ -239,7 +237,6 @@ i stand til at
 kapsel
 kaptajn
 bil
-parkeringsplads
 campingvogn
 karrusel
 tæppe
@@ -635,7 +632,6 @@ lys
 lighter
 limerick
 limpet
-omdrejningspunktet
 løve
 løvinde
 lakrids
@@ -659,7 +655,6 @@ magpie
 malt
 mand
 mango
-brugervejledning
 marmor
 hoppe
 marmelade
@@ -951,7 +946,6 @@ skjorte
 sko
 skohorn
 butik
-butiksindehaveren
 forkorte
 skovl
 shuffle
@@ -1081,7 +1075,6 @@ fælde
 affald
 træ
 buk
-trehjulet cykel
 trio
 stativ
 murske

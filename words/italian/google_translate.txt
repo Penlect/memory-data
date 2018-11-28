@@ -88,7 +88,6 @@ dire
 urlare
 sedersi
 dormire
-sorriso, sorridere
 parlare
 stare in piedi
 parlare
@@ -151,7 +150,6 @@ premio
 asse
 babbuino
 bambino
-bottiglia del bambino
 bacon
 batteri
 esca
@@ -196,7 +194,6 @@ tavola
 bollire
 bonbon
 libro
-titolare del libro
 bottiglia
 mazzo
 scatola
@@ -220,7 +217,6 @@ boa
 bruciare
 fresa
 autobus
-attività commerciale
 burro
 cabina
 cactus
@@ -259,7 +255,6 @@ carisma
 fascino
 dama
 formaggio
-torta di formaggio
 chimico
 ciliegia
 castagna
@@ -300,7 +295,6 @@ concerto
 conduttore
 cono
 conferenza
-congratularsi con
 connettore
 conversare
 copha
@@ -409,7 +403,6 @@ inglese
 iscrizione
 busta
 era
-gomma per cancellare
 evoluzione
 pecora
 esposizione
@@ -424,7 +417,6 @@ falco
 famiglia
 fan
 fanfara
-terreni agricoli
 paura
 festa
 sensazione
@@ -441,7 +433,6 @@ camino
 pesce
 fiamma
 veloce
-torcia elettrica
 pulce
 fuggire
 flotta
@@ -505,7 +496,6 @@ grinta
 orso grizzly
 gallo cedrone
 guida
-porcellino d'india
 chitarra
 gabbiano
 pistola
@@ -524,7 +514,6 @@ nocciola
 faro
 salute
 udito
-apparecchio acustico
 tacco
 gallina
 erba
@@ -537,14 +526,12 @@ alveare
 inganno
 montacarichi
 casa
-omogeneizzazione
 miele
 zoccolo
 ormone
 corno
 oroscopo
 cavallo
-tubo flessibile
 ostello
 casa
 ululato
@@ -556,7 +543,6 @@ idrogeno
 ghiaccio
 gelato
 iceberg
-identificazione
 iguana
 impersonare
 strumento
@@ -586,7 +572,6 @@ medusa
 molo
 rivista
 giornalista
-telecomando da gioco
 brocca
 succo
 giungla
@@ -615,7 +600,6 @@ agnello
 lampada
 corsia
 linguaggio
-il computer portatile
 laser
 chiavistello
 avvocato
@@ -629,7 +613,6 @@ limone
 lente
 biblioteca
 menzogna
-scialuppa di salvataggio
 sollevamento
 luce
 accendino
@@ -668,7 +651,6 @@ stuoia
 maionese
 labirinto
 medicina
-imparare a memoria
 menhir
 mercurio
 sirena
@@ -792,7 +774,6 @@ pellicano
 matita
 pepe
 persona
-animale domestico
 petalo
 flemma
 telefono
@@ -850,7 +831,6 @@ quiche
 faretra
 citazione
 coniglio
-cavallo da corsa
 racchetta
 radar
 radio
@@ -858,7 +838,6 @@ ravanello
 ringhiera
 pioggia
 arcobaleno
-guardia forestale
 ratto
 sonaglio
 corvo
@@ -901,7 +880,6 @@ radici
 corda
 rosa
 marcire
-gomma da cancellare
 rubino
 timone
 corridore
@@ -928,7 +906,6 @@ schermo
 vite
 mare
 gabbiano
-cavalluccio marino
 foca
 seme
 sequestro
@@ -956,7 +933,6 @@ accorciare
 pala
 rimescolare
 fratello
-piatto di contorno
 sviare
 vista
 silicio
@@ -970,14 +946,11 @@ bradipo
 schiaffo
 odore
 fumo
-contrabbandiere
 spuntino
 lumaca
 la neve
-pupazzo di neve
 ammollo
 calcio
-giocatore di calcio
 calzino
 divano
 solitudine
@@ -1000,7 +973,6 @@ sperone
 spiare
 piazza
 cervo
-tromba delle scale
 gambo
 stazione
 statua
@@ -1011,7 +983,6 @@ etichetta
 stipulazione
 staffa
 borsa valori
-calze autoreggenti
 sgabello
 storia
 stufa
@@ -1024,7 +995,6 @@ ceppo
 sottomarino
 sobborghi
 succhiare
-completo da uomo
 valigia
 girasole
 tavola da surf
@@ -1035,7 +1005,6 @@ cigno
 maglione
 nuotatore
 piscina
-costume da bagno
 spada
 sciroppo
 tavolo
@@ -1067,7 +1036,6 @@ tigre
 serraggio
 tempo
 tostapane
-unghia del piede
 pomodoro
 asciugamano
 torre
@@ -1132,7 +1100,6 @@ panciotto
 parete
 portafoglio
 tricheco
-bacchetta magica
 armadio
 stregone
 guerriero
@@ -1141,12 +1108,10 @@ vespa
 cascata
 filigrana
 cera
-vincolo matrimoniale
 erba
 balena
 molo
 ruota
-sedia a rotelle
 frusta
 parrucca
 wigwam
@@ -1169,7 +1134,6 @@ yak
 yoyo
 zodiaco
 cane
-attività commerciale
 agente
 calendario
 cartucce
@@ -1331,7 +1295,6 @@ cammello
 candelabro
 pentola
 caramella
-carta geografica
 casseruola
 berretto
 colpetto
@@ -1414,7 +1377,6 @@ orangutan
 organizzare
 pagaia
 sgabello
-fascia per capelli
 pappagallo
 papà
 carta
@@ -1449,7 +1411,6 @@ robot
 rosa
 rotore
 distanza
-navicella spaziale
 sella
 sandalo
 shampoo
@@ -1473,7 +1434,6 @@ vanteria
 cartello
 fretta
 furgone
-tubo flessibile
 noioso
 trucco
 fusione
@@ -1494,7 +1454,6 @@ stella
 costellazione
 spiaggia
 struzzo
-dare la precedenza
 alunno
 stare in piedi
 filo
@@ -1520,7 +1479,6 @@ gabinetto
 trattore
 imbuto
 destreggiarsi
-procedura guidata
 tromba
 albero
 gallo
@@ -1628,7 +1586,6 @@ capo
 auto
 caravan
 carota
-scatola di cartone
 gatto
 cattedrale
 cd
@@ -1713,7 +1670,6 @@ fegato
 serratura
 camion
 uomo
-carta geografica
 maschera
 incontro
 melone
@@ -1769,7 +1725,6 @@ scarpa
 negozio
 argento
 skateboard
-sorriso, sorridere
 sapone
 spezia
 cucchiaio
@@ -1810,7 +1765,6 @@ corona
 zebra
 attore
 antenna
-pappagallino ondulato
 virgola
 baia
 margherita

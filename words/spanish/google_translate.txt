@@ -44,7 +44,6 @@ fuerza
 confianza
 debilidad
 sabiduría
-pedir disculpas
 mendigar
 rebotar
 respirar
@@ -159,7 +158,6 @@ bola
 globo
 bambú
 vendaje
-billete de banco
 barack
 barril
 barricada
@@ -196,7 +194,6 @@ tablero
 hervir
 caramelo
 libro
-titular de libro
 botella
 ramo de flores
 caja
@@ -239,7 +236,6 @@ capaz
 cápsula
 capitán
 coche
-estacionamiento
 caravana
 carrusel
 alfombra
@@ -265,7 +261,6 @@ cereza
 castaña
 jefe
 niño
-tubo de lámpara
 chip
 cartón madera
 chocolate
@@ -283,7 +278,6 @@ embrague
 costa
 capa
 coco
-reajuste salarial
 colador
 collar
 colectivo
@@ -311,7 +305,6 @@ vaca
 arándano
 grua
 ansia
-cangrejo de río
 crema
 crédito
 criminal
@@ -378,11 +371,9 @@ puerta
 lirón
 masa
 borrador
-madera a la deriva
 beber
 pato
 tonto
-bola de masa hervida
 duna
 duplicidad
 enano
@@ -424,7 +415,6 @@ halcón
 familia
 ventilador
 trompeteo
-tierras de cultivo
 temor
 banquete
 sensación
@@ -488,7 +478,6 @@ regalo
 jengibre
 glacial
 glaciar
-deslumbramiento
 vaso
 lentes
 guante
@@ -505,7 +494,6 @@ arena
 oso grizzly
 queja
 guía
-conejillo de indias
 guitarra
 gaviota
 pistola
@@ -537,7 +525,6 @@ colmena
 farsa
 izar
 casa
-homogeneización
 miel
 casco
 hormona
@@ -569,7 +556,6 @@ lesión
 tinta
 posada
 insecto
-insignificancia
 iris
 planchar
 isla
@@ -586,7 +572,6 @@ medusa
 embarcadero
 diario
 periodista
-palanca de mando
 jarra
 jugo
 selva
@@ -595,13 +580,11 @@ kayac
 brocheta
 perrera
 bordillo
-salsa de tomate
 tetera
 llave
 teclado
 patada
 asesino
-jardín de infancia
 rey
 quiosco
 rodilla
@@ -615,7 +598,6 @@ cordero
 lámpara
 carril
 idioma
-ordenador portátil
 láser
 pestillo
 abogado
@@ -629,11 +611,9 @@ limón
 lente
 biblioteca
 mentira
-bote salvavidas
 levantar
 ligero
 encendedor
-quintilla cómica
 lapa
 eje
 león
@@ -738,7 +718,6 @@ novela
 enfermera
 guardería
 nuez
-cáscara de nuez
 avena
 obelisco
 objeción
@@ -781,7 +760,6 @@ paso
 pasión
 pastas
 pastelería
-labor de retazos
 camino
 pavimento
 melocotón
@@ -798,7 +776,6 @@ flema
 teléfono
 fotógrafo
 piano
-conservar en vinagre
 tarta
 paloma
 hucha
@@ -850,7 +827,6 @@ quiche
 carcaj
 citar
 conejo
-caballo de carreras
 raqueta
 radar
 radio
@@ -862,7 +838,6 @@ guardabosque
 rata
 traqueteo
 cuervo
-maquinilla de afeitar
 reactor
 seguridades
 grabadora
@@ -974,10 +949,8 @@ contrabandista
 bocadillo
 caracol
 nieve
-monigote de nieve
 remojo
 fútbol
-jugador de fútbol
 calcetín
 sofá
 soledad
@@ -1000,7 +973,6 @@ estimular
 espía
 cuadrado
 ciervo
-hueco de escalera
 tallo
 estación
 estatua
@@ -1048,7 +1020,6 @@ grifo
 alquitrán
 arancel
 té
-osito de peluche
 teléfono
 telescopio
 televisión
@@ -1067,7 +1038,6 @@ tigre
 apretando
 hora
 tostadora
-uña del dedo del pie
 tomate
 toalla
 torre
@@ -1146,11 +1116,9 @@ hierba
 ballena
 muelle
 rueda
-silla de ruedas
 batidor
 peluca
 wigwam
-fauna silvestre
 sauce
 cabrestante
 viento
@@ -1274,7 +1242,6 @@ jirafa
 guitarra
 vaso
 lentes
-mirar fijamente
 brillar
 confitería
 rama
@@ -1283,7 +1250,6 @@ rana
 crema
 pelea
 hierba
-gachas de avena
 dios
 oro
 oscilación
@@ -1352,7 +1318,6 @@ guirnalda
 tiza
 gancho
 corona
-cangrejo de río
 vómito
 loción
 almohada
@@ -1404,7 +1369,6 @@ hormiguero
 portero
 luna
 medida
-osito de peluche
 neurona
 riñón
 aurora
@@ -1431,7 +1395,6 @@ yeso
 crepe
 policía
 moto
-palomitas de maiz
 bolso
 enviar
 presidente
@@ -1444,7 +1407,6 @@ otoño
 eructar
 colza
 descanso
-director de escuela
 robot
 rosa
 rotor
@@ -1453,7 +1415,6 @@ astronave
 ensillar
 sandalia
 champú
-billete de banco
 tienda
 nadar
 jarabe
@@ -1519,7 +1480,6 @@ mira
 baño
 tractor
 embudo
-hacer juegos malabares
 mago
 trompeta
 árbol
@@ -1599,7 +1559,6 @@ asfalto
 bolso
 globo
 vendaje
-billete de banco
 cesta
 playa
 oso
@@ -1631,7 +1590,6 @@ zanahoria
 caja de cartón
 gato
 catedral
-discos compactos
 techo
 centrar
 silla
@@ -1847,7 +1805,6 @@ jabalina
 joya
 saltador
 cocina
-cordon de zapato
 lago
 cucharón
 cuero

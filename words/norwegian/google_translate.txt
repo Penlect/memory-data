@@ -44,7 +44,6 @@ styrke
 tillit
 svakhet
 visdom
-be om unnskyldning
 tigge
 sprette
 puste
@@ -545,7 +544,6 @@ horn
 horoskop
 hest
 slange
-vandrer~~pos=trunc
 hus
 hyle
 hummingbird
@@ -645,7 +643,6 @@ lytte
 llama
 låse
 logg
-kjærlighet på pinne
 lastebil
 krem
 kjærlighet
@@ -954,7 +951,6 @@ butikk
 butikkeier
 forkorte
 skuffe
-tilfeldig rekkefølge
 søsken
 sideplate
 sidesteg
@@ -1892,7 +1888,6 @@ kastrere
 utfordring
 skader
 danse
-bestemme seg for
 diskutere
 stupe
 nedlasting

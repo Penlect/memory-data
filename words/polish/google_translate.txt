@@ -11,7 +11,6 @@ zrozumienie
 pewność siebie
 curage
 dekadencja
-nieposłuszeństwo
 ego
 wytrzymałość
 zazdrość
@@ -30,7 +29,6 @@ luksus
 zagadka
 ciężka próba
 paradoks
-niebezpieczeństwo
 przyjemność
 zapobieganie
 cytat
@@ -38,7 +36,6 @@ odczyn
 powód
 niechęć
 ryzyko
-zdrowie psychiczne
 uczucie
 siła
 zaufanie
@@ -111,14 +108,12 @@ ogłoszenie
 aerosol
 agorafobia
 powietrze
-poduszka powietrzna
 glony
 alergia
 aleja
 aligator
 alfabet
 ołtarz
-karetka pogotowia
 amoniak
 ziemnowodny
 amfiteatr
@@ -151,7 +146,6 @@ nagroda
 oś
 pawian
 niemowlę
-butelka dla dziecka
 boczek
 bakteria
 przynęta
@@ -169,7 +163,6 @@ basen
 kosz
 nietoperz
 cacko
-latarnia morska
 zlewka
 niedźwiedź
 broda
@@ -196,7 +189,6 @@ tablica
 gotować
 cukierek
 książka
-posiadacz książki
 butelka
 bukiet
 pudełko
@@ -234,7 +226,6 @@ kanarek
 cukierek
 kanibal
 kajak
-czapka z daszkiem
 zdolny
 kapsuła
 kapitan
@@ -242,7 +233,6 @@ samochód
 parking
 karawana
 karuzela
-wykładzina podłogowa
 kasyno
 odlew
 kot
@@ -282,7 +272,6 @@ klub
 sprzęgło
 wybrzeże
 płaszcz
-orzech kokosowy
 cola
 durszlak
 kołnierz
@@ -405,11 +394,9 @@ pracownik
 emu
 wróg
 silnik
-język angielski
 wejście
 koperta
 era
-gumka do mazania
 ewolucja
 owca
 wystawa
@@ -502,7 +489,6 @@ konik polny
 ruszt
 griller
 piasek
-niedźwiedź grizzly
 pardwa
 przewodnik
 świnka morska
@@ -515,7 +501,6 @@ włosy
 młot
 dłoń
 szczęście
-drewno liściaste
 harfa
 kapelusz
 właz
@@ -524,7 +509,6 @@ orzech laskowy
 reflektor
 zdrowie
 przesłuchanie
-aparat słuchowy
 obcas
 kura
 ziele
@@ -559,7 +543,6 @@ góra lodowa
 identyfikacja
 iguana
 podszywać się
-wprowadzić w życie
 import
 odcisk
 indeks
@@ -647,7 +630,6 @@ zamek
 log
 lizak
 ciężarówka
-płyn kosmetyczny
 miłość
 lus
 makaron
@@ -738,7 +720,6 @@ powieść
 pielęgniarka
 żłobek
 orzech
-łupina od orzecha
 owies
 obelisk
 sprzeciw
@@ -770,7 +751,6 @@ płyta
 pantera
 pantomima
 papier
-papuga długoogonowa
 paczka
 rodzic
 park
@@ -781,7 +761,6 @@ przejście
 pasja
 makaron
 ciasto
-niejednolita całość
 ścieżka
 bruk
 brzoskwinia
@@ -801,7 +780,6 @@ fortepian
 marynata
 ciasto
 gołąb
-świnka skarbonka
 pilates
 poduszka
 rura
@@ -841,7 +819,6 @@ pub
 pudding
 pompa
 marionetka
-wózek spacerowy
 puzzle
 piramida
 pyton
@@ -876,7 +853,6 @@ regaty
 cieszyć
 religia
 wynagrodzenie
-potrącenie od dochodu
 opierać się
 respirator
 restauracja
@@ -989,7 +965,6 @@ zupa
 świeca
 wróbel
 głośnik
-prędkościomierz
 kula
 spledour
 gąbka
@@ -1000,7 +975,6 @@ ostroga
 szpieg
 plac
 jeleń
-klatka schodowa
 łodyga
 stacja
 statua
@@ -1010,7 +984,6 @@ kij
 naklejka
 zastrzeżenie
 strzemię
-giełda papierów wartościowych
 pończochy
 stołek
 fabuła
@@ -1027,7 +1000,6 @@ ssać
 garnitur
 walizka
 słonecznik
-deska surfingowa
 surfer
 surrealizm
 niedobitek
@@ -1035,7 +1007,6 @@ niedobitek
 sweter
 pływak
 basen
-kostium kąpielowy
 miecz
 syrop
 stół
@@ -1055,7 +1026,6 @@ telewizja
 namiot
 bielec
 podręcznik
-praca dyplomowa
 cierń
 wątek
 grozić
@@ -1085,9 +1055,7 @@ trycykl
 trio
 statyw
 kielnia
-samochód ciężarowy
 trąbka
-bagażnik samochodowy
 wanna
 tulipan
 indyk
@@ -1146,11 +1114,9 @@ chwast
 wieloryb
 estakada
 koło
-wózek inwalidzki
 śmigać
 peruka
 wigwam
-dzikiej przyrody
 wierzba
 wciągarka
 wiatr
@@ -1196,7 +1162,6 @@ gryźć
 brzozowy
 żyła
 kwiat
-borówka amerykańska
 trojanek
 ośmiornica
 holowniczy
@@ -1333,7 +1298,6 @@ garnek
 cukierek
 mapa
 rondel
-czapka z daszkiem
 poklepać
 klub
 sukienka
@@ -1354,7 +1318,6 @@ hak
 korona
 rak
 wymiociny
-płyn kosmetyczny
 poduszka
 król
 gałązka
@@ -1408,7 +1371,6 @@ miś
 neuron
 nerka
 zorza polarna
-siostra zakonna
 olej
 orangutan
 zorganizować
@@ -1431,7 +1393,6 @@ gips
 naleśnik
 policja
 motocykl
-prażona kukurydza
 portmonetka
 słupek
 prezydent
@@ -1449,7 +1410,6 @@ robot
 róża
 wirnik
 dystans
-statek kosmiczny
 siodło
 sandał
 szampon
@@ -1489,7 +1449,6 @@ miasto
 początek
 pręt
 patelnia
-robić na drutach
 gwiazda
 konstelacja
 plaża
@@ -1550,7 +1509,6 @@ oko
 brew
 aberracja
 złamać
-boże narodzenie
 zagrożenie
 kończący się
 doświadczenie
@@ -1564,7 +1522,6 @@ humor
 przemysł
 radość
 kilogram
-wiedza, umiejętności
 prawo
 miłość
 połączenie
@@ -1589,7 +1546,6 @@ tom
 wojna
 waga
 powietrze
-karetka pogotowia
 anemon
 anioł
 mrówka
@@ -1610,7 +1566,6 @@ rower
 lornetka
 nóż
 koc
-borówka amerykańska
 książka
 broszura
 łuk
@@ -1707,7 +1662,6 @@ lakier
 owieczka
 lampa
 obiektyw
-latarnia morska
 lilia
 wątróbka
 zamek
@@ -1747,7 +1701,6 @@ pistolet
 dzban
 planeta
 płyta
-wózek dziecięcy
 krewetka
 profesor
 uczeń
@@ -1810,7 +1763,6 @@ wieniec
 zebra
 aktor
 antena
-papużka falista
 przecinek
 zatoczka
 stokrotka

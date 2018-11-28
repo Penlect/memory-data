@@ -78,7 +78,6 @@ gülmek
 karşılamak
 homurdanma
 açık
-kulak misafiri olmak
 yapmak
 övgü
 yeniden gözden
@@ -152,7 +151,6 @@ aks
 habeş maymunu
 bebek
 bebeğin şişesi
-domuz pastırması
 bakteriler
 yem
 top
@@ -201,7 +199,6 @@ kitap sahibi
 buket
 kutu
 bilezik
-pantolon askısı
 örgü
 şube
 ekmek
@@ -282,7 +279,6 @@ kulüp
 debriyaj
 sahil
 ceket
-hindistan cevizi
 kola
 kevgir
 yaka
@@ -366,9 +362,7 @@ hendek
 rıhtım
 doktor
 belge
-nesli tükenmiş bir kuş
 köpek
-inançlar bilgisi
 oyuncak bebek
 dolar
 yunus
@@ -378,7 +372,6 @@ kapı
 fındık faresi
 hamur
 taslak
-dalgaların karaya attığı odun
 içki
 ördek
 kukla
@@ -402,7 +395,6 @@ uzama
 zayıflama
 amblem
 işçi
-koşucu devekuşu
 düşman
 motor
 ingilizce
@@ -633,7 +625,6 @@ filika
 asansör
 ışık
 çakmak
-beş mısralık esprili şiir
 deniz minaresi
 dingil çivisi
 aslan
@@ -841,7 +832,6 @@ birahane
 puding
 pompa
 kukla
-tekerlekli sandalye
 bulmaca
 piramit
 piton
@@ -865,7 +855,6 @@ kuzgun
 jilet
 reaktör
 güvence
-ses kayıt cihazı
 geri dönüşüm
 indirgeme
 kamış
@@ -886,7 +875,6 @@ revolver
 ravent
 kurdele
 pirinç
-italyan peyniri
 sırt
 tüfek
 halka
@@ -944,7 +932,6 @@ köpekbalığı
 tıraş
 koyun
 kabuk
-kabuklu deniz hayvanı
 çoban
 incik kemiği
 gömlek
@@ -977,7 +964,6 @@ kar
 kardan adam
 ıslatma
 futbol
-futbol oyuncusu
 çorap
 kanepe
 yalnızlık
@@ -1000,7 +986,6 @@ mahmuz
 casus
 kare
 erkeklere özel
-merdiven boşluğu
 sap
 istasyon
 heykel
@@ -1014,7 +999,6 @@ borsa
 çorap
 dışkı
 öykü
-soba, fırın, ocak
 saman
 sokak
 sokak lambası
@@ -1022,7 +1006,6 @@ sicim
 stüdyo
 kütük
 denizaltı
-kenar mahalleler
 emmek
 takım elbise
 bavul
@@ -1081,7 +1064,6 @@ tuzak
 çöp
 ağaç
 sehpa
-üç tekerlekli bisiklet
 üçlü
 tripod
 mala
@@ -1136,7 +1118,6 @@ asa
 giysi dolabı
 falcı
 savaşçı
-çamaşır makinesi
 yaban arısı
 şelale
 filigran
@@ -1146,10 +1127,8 @@ ot
 balina
 iskele
 tekerlek
-tekerlekli sandalye
 fırçalamak
 peruk
-kızılderili çadırı
 yaban hayatı
 söğüt
 vinç
@@ -1226,7 +1205,6 @@ dizel
 dinozor
 disk
 sarkık
-bulaşık makinesi
 disko
 disk
 tartışmak
@@ -1476,7 +1454,6 @@ kamyonet
 hortum
 donuk
 makyaj
-erimek, eritmek
 ziyaret etmek
 horlama
 çevirmek
@@ -1636,7 +1613,6 @@ tavan
 merkez
 sandalye
 tebeşir
-sarı renkli bir tür mantar
 şarj cihazı
 kestane
 bıçaklamak
@@ -1690,7 +1666,6 @@ helikopter
 dümen
 kask
 tavuk
-elektrik süpürgesi
 otel
 ev
 kulübe
@@ -1736,7 +1711,6 @@ sıvı yağ
 devekuşu
 istiridye
 yassı
-güneş şemsiyesi
 parsel
 yama
 fıstık
@@ -1838,7 +1812,6 @@ insan
 kasırga
 engel
 buz
-eskimo kulübesi
 han
 tercüman
 demir
@@ -1919,12 +1892,10 @@ asansör
 yönetmek
 bayan
 karıştırmak
-deri değiştirme
 bitki
 rehin
 dökün
 ters
-gözden geçirmek
 kürek çekmek
 sabotaj
 çığlık
