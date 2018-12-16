@@ -6,8 +6,8 @@ import itertools
 from pathlib import Path
 from PIL import Image
 
-root = r'/home/penlect/src/memory-data/_em2018_originals'
-output = r'/home/penlect/src/stdmemory/stdmemo/static/img/profile-images/_em2018'
+root = r'/home/penlect/Downloads/Faces - final'
+output = r'/home/penlect/src/stdmemory/stdmemo/static/img/profile-images/_wmc2018'
 
 
 def md5(fname):
@@ -31,7 +31,8 @@ def get_images():
         output_file = output_dir / (gender_int + '-' + md5(file) + '.jpg')
         width, height = original.size
         print(f'{height/width:.2f}', width, height)
-
+        if max(width, height) < 250:
+            continue
         # Crop
         if width > height:
             diff = (width - height) // 2
@@ -40,20 +41,21 @@ def get_images():
             right = width - diff
             bottom = height
             new = original.crop((left, top, right, bottom))
-            if height > 600:
-                new = new.resize((600, 600), Image.ANTIALIAS)
+            if height > 500:
+                new = new.resize((500, 500), Image.ANTIALIAS)
             new.save(output_file)
         elif width < height:
+            height = int(0.8*height)
             new_size = (height, height)
             new = Image.new(original.mode, new_size, color='white')
             new.paste(original, ((height - width)//2, 0))
-            if height > 600:
-                new = new.resize((600, 600), Image.ANTIALIAS)
+            if height > 500:
+                new = new.resize((500, 500), Image.ANTIALIAS)
             new.save(output_file)
         else:
             new = original
-            if height > 600:
-                new = new.resize((600, 600), Image.ANTIALIAS)
+            if height > 500:
+                new = new.resize((500, 500), Image.ANTIALIAS)
             new.save(output_file)
         print()
 

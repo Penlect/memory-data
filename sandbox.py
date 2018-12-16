@@ -1,34 +1,19 @@
-import textract
-from collections import Counter
 
-c = Counter()
+import os
 
-text = textract.process("/home/penlect/Downloads/How to remember names and faces the easy way-Final.pdf", encoding='utf-8')
+for path, dirs, files in os.walk('.'):
+    for file in files:
+        if file == 'google_translate.txt':
+            print(os.path.basename(path))
+        else:
+            continue
+        full_file = os.path.join(path, file)
+        with open(full_file, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
 
-index = text.find(b'USA Female Names')
-text = text[index:]
+            for i in range(len(lines)):
+                if '-' in lines[i]:
+                    lines[i] = ''
 
-file = None
-count = 0
-lines = list()
-for line in text.decode('utf8').split('\n'):
-    if line.strip() and '–' in line:
-        count += 1
-        name = line.split('–')[0].strip()
-        name = name.replace(' ', '-')
-        #print(f'{count: 3} ', name)
-        lines.append(name)
-    elif 'Names' in line:
-        lines = list(set(lines))
-        count = 0
-        if file is not None:
-            lines.sort()
-            print(f'Writing {len(lines)} lines to {file.name}')
-            file.write('\n'.join(lines))
-            lines = list()
-            file.close()
-        print(f'{line:-^100}')
-        file = open(f'{line.replace(" ", "_")}.txt', 'w', encoding='utf8')
-print(f'Writing {len(lines)} lines to {file.name}')
-file.write('\n'.join(lines))
-file.close()
+        with open(full_file, 'w', encoding='utf-8') as f:
+            f.write(''.join(lines))
