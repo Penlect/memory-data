@@ -4,7 +4,7 @@ discipline;sort_index;type;name;memo_time;recall_time;world;international;nation
 5min_names;3;names;Names & Faces;5;15;0;0;1;1;95
 15min_numbers;4;numbers;Random Numbers;15;30;0;0;1;1;1112
 15min_names;5;names;Names & Faces;15;30;1;1;0;1;210
-5min_images;6;images;Random Images;5;15;1;1;1;1;373
+5min_images;6;images;Random Images;5;15;1;1;1;1;446
 30min_binary;7;binary;Binary Numbers;30;60;1;1;0;1;6171
 60min_numbers;8;numbers;Random Numbers;60;120;1;0;0;1;3234
 10min_cards;9;cards;Random Cards;10;30;0;0;1;1;436
